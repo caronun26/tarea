@@ -1,0 +1,1057 @@
+Year,Organization,Department,Position,Position count,Planned position count,Expense total,Course cost,Course days,Terminations,Internal hires,External hires
+2014,GO Americas corporate,Human Resources,Vice President of Human Resources,1,1,203072.4,10500,4,0,0,0
+2014,GO Americas corporate,Human Resources,Human Resources Administrator,1,1,51582.74,0,0,0,0,0
+2014,GO Americas corporate,Human Resources,Benefit Specialist,2,2,79115.38,0,0,0,0,0
+2014,GO Americas corporate,Human Resources,Human Resources Clerk,2,2,65658.44,0,0,0,0,0
+2014,GO Americas corporate,Finance,Controller,1,1,205051.67,10500,4,0,0,0
+2014,GO Americas corporate,Finance,Finance Manager,1,1,151033.62,0,0,0,0,0
+2014,GO Americas corporate,Finance,Financial Analyst,1,1,72348.87,0,0,0,0,0
+2014,GO Americas corporate,Finance,Budget Analyst,1,1,55637.79,0,0,0,0,0
+2014,GO Americas corporate,Finance,Payroll Clerk,1,1,47681.62,0,0,0,0,1
+2014,GO Americas corporate,Finance,Accounting Manager,1,1,126566.7,0,0,0,0,0
+2014,GO Americas corporate,Finance,Accountant 1,2,3,123625.32,7750,8.5,0,0,0
+2014,GO Americas corporate,Finance,Accountant 2,4,5,345531.55,11500,14.5,0,2,1
+2014,GO Americas corporate,Finance,Accounting Clerk,6,6,209388.89,6750,9.5,0,0,1
+2014,GO Americas corporate,Marketing,Vice President of Marketing,1,1,200291.03,10500,4,0,0,0
+2014,GO Americas corporate,Marketing,Marketing Manager,1,1,65730.68,0,0,0,0,0
+2014,GO Americas corporate,Marketing,Marketing Specialist,3,3,123136.1,7750,10.5,0,0,1
+2014,GO Americas corporate,Sales (Corporate),Vice President of Sales Management,1,1,200638.43,10500,4,0,0,0
+2014,GO Americas corporate,Sales (Corporate),Product Manager,2,2,127244.47,9750,12.5,0,0,0
+2014,GO Americas corporate,Sales (Corporate),Product Technician,3,3,103109.83,5250,13.5,0,0,3
+2014,GO Americas corporate,Procurement,Procurement Manager,1,1,71074.76,9500,11.5,1,0,1
+2014,GO Americas corporate,Procurement,Procurement Coordinator,1,1,43492.2,0,0,0,0,0
+2014,GO Americas corporate,Procurement,Procurement Clerk,2,2,69915.08,4750,6,0,0,0
+2014,GO Americas corporate,Information Services and Technology,Vice President of Information Technology,1,1,200632.3,10500,4,0,0,0
+2014,GO Americas corporate,Information Services and Technology,Information Technology Manager,1,1,103442.03,0,0,0,0,0
+2014,GO Americas corporate,Information Services and Technology,System Analyst,1,1,46275.3,8250,9.5,1,0,1
+2014,GO Americas corporate,Information Services and Technology,Software Engineer,2,2,129905.41,0,0,0,0,0
+2014,GO Americas corporate,Information Services and Technology,Computer Operator,2,2,67323.01,0,0,0,0,0
+2014,GO Americas corporate,Executive Offices,Executive Vice President,1,1,235974.33,10500,4,0,0,0
+2014,GO Americas corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2014,GO Americas corporate,Executive Offices,Chief Executive Officer,1,1,347719.25,10500,4,0,0,0
+2014,GO Americas corporate,Executive Offices,Chief Financial Officer,1,1,296261.64,10500,4,0,0,0
+2014,GO Americas operations,Production and Distribution,Regional Manager,0,0,135635.11,0,0,0,0,0
+2014,GO Americas operations,Production and Distribution,Franchise Distribution Manager,2,2,157750.72,0,0,0,0,0
+2014,GO Americas operations,Production and Distribution,Warehouse Manager,4,4,250150.96,5250,6,0,0,0
+2014,GO Americas operations,Production and Distribution,Warehouse Worker,11,11,392919.91,1600,5.5,0,0,0
+2014,GO Americas operations,Production and Distribution,Warehouse Assistant Manager,3,3,180693.35,0,0,0,0,0
+2014,GO Americas operations,Customer Service,Customer Service Manager,1,1,100041.41,0,0,0,0,0
+2014,GO Americas operations,Customer Service,Customer Service Coordinator,3,3,154961.56,4750,9,0,2,0
+2014,GO Americas operations,Customer Service,Customer Service Representative,6,7,321854.55,2500,4.5,0,0,1
+2014,GO Americas operations,Sales,Regional Sales Manager,1,1,143207.6,3500,4,0,0,0
+2014,GO Americas operations,Sales,District Sales Manager,2,2,253575.08,7000,8,0,0,0
+2014,GO Americas operations,Sales,Branch Sales Manager,8,8,715509.63,38000,45.5,1,0,1
+2014,GO Americas operations,Sales,Level 1 Sales Representative,11,11,620403.93,61000,77,0,0,2
+2014,GO Americas operations,Sales,Level 2 Sales Representative,7,7,693978.8,31500,38.5,0,0,2
+2014,GO Americas operations,Sales,Level 3 Sales Representative,13,13,1587456.04,50000,60,0,0,0
+2014,GO Americas operations,Operations,General Manager of Operations,1,1,205459.03,10500,4,0,0,0
+2014,GO Central Europe corporate,Human Resources,Vice President of Human Resources,1,1,199578.71,10500,4,0,0,0
+2014,GO Central Europe corporate,Human Resources,Human Resources Administrator,0,0,0,0,0,0,0,0
+2014,GO Central Europe corporate,Human Resources,Benefit Specialist,0,0,0,0,0,0,0,0
+2014,GO Central Europe corporate,Human Resources,Human Resources Clerk,0,0,0,0,0,0,0,0
+2014,GO Central Europe corporate,Finance,Controller,1,1,199348.94,10500,4,0,0,0
+2014,GO Central Europe corporate,Finance,Finance Manager,1,1,126136.77,0,0,0,0,0
+2014,GO Central Europe corporate,Finance,Financial Analyst,2,2,142899.39,0,0,0,0,0
+2014,GO Central Europe corporate,Finance,Budget Analyst,2,2,87884.7,0,0,0,0,0
+2014,GO Central Europe corporate,Finance,Payroll Clerk,0,0,0,0,0,0,0,0
+2014,GO Central Europe corporate,Finance,Accounting Manager,1,1,94174.72,5750,7,0,0,0
+2014,GO Central Europe corporate,Finance,Accountant 1,1,1,64397.82,0,0,0,0,0
+2014,GO Central Europe corporate,Finance,Accountant 2,2,2,150618.97,0,0,0,0,0
+2014,GO Central Europe corporate,Finance,Accounting Clerk,2,2,65980.1,6750,9.5,0,0,0
+2014,GO Central Europe corporate,Marketing,Vice President of Marketing,1,1,200101.57,10500,4,0,0,0
+2014,GO Central Europe corporate,Marketing,Marketing Manager,1,1,80443.82,0,0,0,0,0
+2014,GO Central Europe corporate,Marketing,Marketing Specialist,1,1,43553.27,0,0,0,0,0
+2014,GO Central Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,201692.77,10500,4,0,0,0
+2014,GO Central Europe corporate,Sales (Corporate),Product Manager,1,1,80444.3,0,0,0,0,0
+2014,GO Central Europe corporate,Sales (Corporate),Product Technician,1,1,47799.64,0,0,0,0,0
+2014,GO Central Europe corporate,Procurement,Procurement Manager,0,0,0,0,0,0,0,0
+2014,GO Central Europe corporate,Procurement,Procurement Coordinator,0,0,0,0,0,0,0,0
+2014,GO Central Europe corporate,Procurement,Procurement Clerk,0,0,0,0,0,0,0,0
+2014,GO Central Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,201187.73,10500,4,0,0,0
+2014,GO Central Europe corporate,Information Services and Technology,Information Technology Manager,1,1,91100.5,0,0,0,0,0
+2014,GO Central Europe corporate,Information Services and Technology,System Analyst,1,1,37423.9,8250,9.5,0,0,1
+2014,GO Central Europe corporate,Information Services and Technology,Software Engineer,4,4,217882.33,8250,9.5,0,0,1
+2014,GO Central Europe corporate,Information Services and Technology,Computer Operator,1,1,32963.67,0,0,0,0,0
+2014,GO Central Europe corporate,Executive Offices,Executive Vice President,1,1,239109.25,10500,4,0,0,0
+2014,GO Central Europe corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2014,GO Central Europe operations,Sales (Corporate),Product Technician,0,0,0,0,0,0,0,0
+2014,GO Central Europe operations,Production and Distribution,Regional Manager,0,0,117411.09,0,0,0,0,0
+2014,GO Central Europe operations,Production and Distribution,Franchise Distribution Manager,1,1,65825.06,0,0,0,0,0
+2014,GO Central Europe operations,Production and Distribution,Warehouse Manager,1,1,57441.89,4300,9,0,0,0
+2014,GO Central Europe operations,Production and Distribution,Warehouse Worker,4,5,139160.58,5600,17.5,0,0,3
+2014,GO Central Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,25222.98,0,0,0,1,0
+2014,GO Central Europe operations,Customer Service,Customer Service Manager,1,1,78372.94,0,0,0,0,0
+2014,GO Central Europe operations,Customer Service,Customer Service Coordinator,2,2,105559.95,0,0,0,0,0
+2014,GO Central Europe operations,Customer Service,Customer Service Representative,2,2,87532.64,0,0,0,0,0
+2014,GO Central Europe operations,Sales,Regional Sales Manager,1,1,135387.97,3500,4,0,0,0
+2014,GO Central Europe operations,Sales,District Sales Manager,2,2,233851.03,7000,8,0,0,0
+2014,GO Central Europe operations,Sales,Branch Sales Manager,6,7,537587.01,30750,36.5,2,0,2
+2014,GO Central Europe operations,Sales,Level 1 Sales Representative,4,5,306047.95,20500,24.5,1,0,2
+2014,GO Central Europe operations,Sales,Level 2 Sales Representative,7,8,714114.63,38000,47,0,0,1
+2014,GO Central Europe operations,Sales,Level 3 Sales Representative,7,8,915953.07,37250,44.5,0,0,1
+2014,GO Central Europe operations,Operations,General Manager of Operations,1,1,201288.08,10500,4,0,0,0
+2014,GO Asia Pacific corporate,Human Resources,Vice President of Human Resources,1,1,166889.15,10500,4,0,0,0
+2014,GO Asia Pacific corporate,Human Resources,Human Resources Administrator,1,1,38396.1,250,1,0,0,0
+2014,GO Asia Pacific corporate,Human Resources,Benefit Specialist,1,1,34239.39,0,0,0,0,0
+2014,GO Asia Pacific corporate,Human Resources,Human Resources Clerk,1,1,27557.96,250,1,0,0,0
+2014,GO Asia Pacific corporate,Finance,Controller,1,1,166455.26,10500,4,0,0,0
+2014,GO Asia Pacific corporate,Finance,Finance Manager,1,1,113903.28,0,0,0,0,0
+2014,GO Asia Pacific corporate,Finance,Financial Analyst,1,1,57413.27,250,1,0,0,0
+2014,GO Asia Pacific corporate,Finance,Budget Analyst,1,1,34631.51,6500,7,0,0,0
+2014,GO Asia Pacific corporate,Finance,Payroll Clerk,1,1,33189.8,0,0,0,0,0
+2014,GO Asia Pacific corporate,Finance,Accounting Manager,1,1,93915.71,0,0,0,0,0
+2014,GO Asia Pacific corporate,Finance,Accountant 1,0,0,0,0,0,0,0,0
+2014,GO Asia Pacific corporate,Finance,Accountant 2,2,2,129589.46,8000,9.5,0,0,0
+2014,GO Asia Pacific corporate,Finance,Accounting Clerk,1,2,44689.41,4500,6.5,0,0,1
+2014,GO Asia Pacific corporate,Marketing,Vice President of Marketing,1,1,165872.95,10500,4,0,0,0
+2014,GO Asia Pacific corporate,Marketing,Marketing Manager,1,1,59994.51,0,0,0,0,0
+2014,GO Asia Pacific corporate,Marketing,Marketing Specialist,4,4,132140.47,5000,7,0,0,0
+2014,GO Asia Pacific corporate,Sales (Corporate),Vice President of Sales Management,1,1,167095.22,10500,4,0,0,0
+2014,GO Asia Pacific corporate,Sales (Corporate),Product Manager,1,1,55623,0,0,0,0,0
+2014,GO Asia Pacific corporate,Sales (Corporate),Product Technician,1,1,37818.35,0,0,0,0,0
+2014,GO Asia Pacific corporate,Procurement,Procurement Manager,1,1,63957.46,0,0,0,0,0
+2014,GO Asia Pacific corporate,Procurement,Procurement Coordinator,1,1,40556.04,9750,12.5,0,0,1
+2014,GO Asia Pacific corporate,Procurement,Procurement Clerk,2,2,54527.75,8500,12.5,0,0,1
+2014,GO Asia Pacific corporate,Information Services and Technology,Vice President of Information Technology,1,1,166320.87,10500,4,0,0,0
+2014,GO Asia Pacific corporate,Information Services and Technology,Information Technology Manager,1,1,70045.79,750,2,0,0,0
+2014,GO Asia Pacific corporate,Information Services and Technology,System Analyst,0,0,0,0,0,0,0,0
+2014,GO Asia Pacific corporate,Information Services and Technology,Software Engineer,0,0,1768.11,0,0,0,0,1
+2014,GO Asia Pacific corporate,Information Services and Technology,Computer Operator,1,1,32696.62,6250,7.5,0,0,0
+2014,GO Asia Pacific corporate,Executive Offices,Executive Vice President,1,1,199532.4,10500,4,0,0,0
+2014,GO Asia Pacific corporate,Production and Distribution,Regional Manager,1,1,0,0,0,1,0,1
+2014,GO Asia Pacific operations,Production and Distribution,Regional Manager,0,0,97159.58,7750,10.5,0,0,0
+2014,GO Asia Pacific operations,Production and Distribution,Franchise Distribution Manager,1,1,53301.1,7750,10.5,0,0,1
+2014,GO Asia Pacific operations,Production and Distribution,Warehouse Manager,2,2,100220.68,9300,14,1,1,1
+2014,GO Asia Pacific operations,Production and Distribution,Warehouse Worker,6,6,187296.24,6900,21,0,0,3
+2014,GO Asia Pacific operations,Production and Distribution,Warehouse Assistant Manager,1,2,72879.83,8300,13,0,0,1
+2014,GO Asia Pacific operations,Customer Service,Customer Service Manager,1,1,72761.21,0,0,0,0,0
+2014,GO Asia Pacific operations,Customer Service,Customer Service Coordinator,2,2,89054.63,750,2,0,0,0
+2014,GO Asia Pacific operations,Customer Service,Customer Service Representative,4,5,140591.6,9250,14,0,0,3
+2014,GO Asia Pacific operations,Sales,Regional Sales Manager,1,1,110564.89,3500,4,0,0,0
+2014,GO Asia Pacific operations,Sales,District Sales Manager,2,2,205527.51,7000,8,0,0,0
+2014,GO Asia Pacific operations,Sales,Branch Sales Manager,5,5,420533.01,17500,20,0,0,0
+2014,GO Asia Pacific operations,Sales,Level 1 Sales Representative,3,3,179591.95,15250,19.5,0,0,1
+2014,GO Asia Pacific operations,Sales,Level 2 Sales Representative,8,8,769914.54,35250,43.5,0,0,1
+2014,GO Asia Pacific operations,Sales,Level 3 Sales Representative,11,11,1267349.66,52000,63.5,0,0,1
+2014,GO Asia Pacific operations,Operations,General Manager of Operations,1,1,165504.46,10500,4,0,0,0
+2014,GO Accessories corporate,Human Resources,Vice President of Human Resources,1,1,183309.61,10500,4,0,0,0
+2014,GO Accessories corporate,Human Resources,Human Resources Administrator,1,1,48081.99,0,0,0,0,0
+2014,GO Accessories corporate,Human Resources,Benefit Specialist,1,1,40791.02,0,0,0,0,0
+2014,GO Accessories corporate,Human Resources,Human Resources Clerk,1,1,33377.13,0,0,0,0,0
+2014,GO Accessories corporate,Finance,Controller,1,1,183066.88,10500,4,0,0,0
+2014,GO Accessories corporate,Finance,Finance Manager,1,1,101483.14,6750,7.5,1,0,1
+2014,GO Accessories corporate,Finance,Financial Analyst,2,2,131528.46,2750,4,0,0,0
+2014,GO Accessories corporate,Finance,Budget Analyst,3,3,122477.14,0,0,0,0,0
+2014,GO Accessories corporate,Finance,Payroll Clerk,2,2,65958.56,0,0,0,0,0
+2014,GO Accessories corporate,Finance,Accounting Manager,1,1,97534.56,12500,14.5,1,1,0
+2014,GO Accessories corporate,Finance,Accountant 1,4,4,168846.76,16000,19,0,0,2
+2014,GO Accessories corporate,Finance,Accountant 2,1,2,95619.52,4250,5,0,1,0
+2014,GO Accessories corporate,Finance,Accounting Clerk,1,2,45784.48,3500,6,0,0,2
+2014,GO Accessories corporate,Marketing,Vice President of Marketing,1,1,181626.86,10500,4,0,0,0
+2014,GO Accessories corporate,Marketing,Marketing Manager,1,1,68170.05,9500,11.5,1,0,1
+2014,GO Accessories corporate,Marketing,Marketing Specialist,5,5,179621.76,13000,17,0,0,1
+2014,GO Accessories corporate,Sales (Corporate),Vice President of Sales Management,1,1,181572.22,10500,4,0,0,0
+2014,GO Accessories corporate,Sales (Corporate),Product Manager,2,2,119092.14,9750,12.5,0,0,1
+2014,GO Accessories corporate,Sales (Corporate),Product Technician,3,3,133910.87,0,0,0,0,0
+2014,GO Accessories corporate,Procurement,Procurement Manager,1,1,69818.27,0,0,0,0,0
+2014,GO Accessories corporate,Procurement,Procurement Coordinator,0,0,0,0,0,0,0,0
+2014,GO Accessories corporate,Procurement,Procurement Clerk,3,4,112696.28,7750,10.5,0,0,1
+2014,GO Accessories corporate,Information Services and Technology,Vice President of Information Technology,1,1,184262.62,10500,4,0,0,0
+2014,GO Accessories corporate,Information Services and Technology,Information Technology Manager,1,1,83846.31,0,0,0,0,0
+2014,GO Accessories corporate,Information Services and Technology,System Analyst,0,0,0,0,0,0,0,0
+2014,GO Accessories corporate,Information Services and Technology,Software Engineer,1,2,80964.11,7750,8.5,0,0,1
+2014,GO Accessories corporate,Information Services and Technology,Computer Operator,1,1,33508.79,6250,7.5,0,0,0
+2014,GO Accessories corporate,Executive Offices,Executive Vice President,1,1,219800.09,10500,4,0,0,0
+2014,GO Accessories corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2014,GO Accessories operations,Production and Distribution,Regional Manager,0,0,102856.62,250,1,0,0,0
+2014,GO Accessories operations,Production and Distribution,Franchise Distribution Manager,0,0,0,0,0,0,0,0
+2014,GO Accessories operations,Production and Distribution,Warehouse Manager,1,1,58799.69,0,0,0,0,0
+2014,GO Accessories operations,Production and Distribution,Warehouse Worker,5,5,179273.36,2300,7,0,0,0
+2014,GO Accessories operations,Customer Service,Customer Service Manager,1,1,83266.52,0,0,0,0,0
+2014,GO Accessories operations,Customer Service,Customer Service Coordinator,2,2,86705.42,250,1,0,0,0
+2014,GO Accessories operations,Customer Service,Customer Service Representative,6,6,237337.84,5250,10,0,0,2
+2014,GO Accessories operations,Sales,Regional Sales Manager,1,1,130846.28,3500,4,0,0,0
+2014,GO Accessories operations,Sales,Branch Sales Manager,1,1,89412.46,3500,4,0,0,0
+2014,GO Accessories operations,Sales,Level 1 Sales Representative,7,8,585337.48,55000,70,0,0,2
+2014,GO Accessories operations,Sales,Level 2 Sales Representative,9,10,1053296.34,44000,54.5,0,1,1
+2014,GO Accessories operations,Sales,Level 3 Sales Representative,5,5,705033.04,37250,47,0,1,1
+2014,GO Accessories operations,Operations,General Manager of Operations,1,1,181384.13,10500,4,0,0,0
+2014,GO Northern Europe corporate,Human Resources,Vice President of Human Resources,1,1,182170.24,10500,4,0,0,0
+2014,GO Northern Europe corporate,Human Resources,Human Resources Administrator,1,1,28562.5,9500,11.5,0,1,0
+2014,GO Northern Europe corporate,Human Resources,Benefit Specialist,1,1,29816.9,2000,3.5,0,0,1
+2014,GO Northern Europe corporate,Human Resources,Human Resources Clerk,0,0,5629.22,1500,2.5,0,0,1
+2014,GO Northern Europe corporate,Finance,Controller,1,1,181504.16,10500,4,0,0,0
+2014,GO Northern Europe corporate,Finance,Finance Manager,1,1,117084.65,0,0,0,0,0
+2014,GO Northern Europe corporate,Finance,Financial Analyst,1,1,65435.06,4750,7.5,0,0,0
+2014,GO Northern Europe corporate,Finance,Budget Analyst,1,1,38759.92,7750,8.5,0,0,0
+2014,GO Northern Europe corporate,Finance,Payroll Clerk,2,2,70232.14,4750,6,0,0,0
+2014,GO Northern Europe corporate,Finance,Accounting Manager,1,1,91126.62,250,1,0,0,0
+2014,GO Northern Europe corporate,Finance,Accountant 1,0,0,0,0,0,0,0,0
+2014,GO Northern Europe corporate,Finance,Accountant 2,2,3,141796.51,23250,26,0,0,2
+2014,GO Northern Europe corporate,Finance,Accounting Clerk,2,2,68422.66,2250,3,0,0,0
+2014,GO Northern Europe corporate,Marketing,Vice President of Marketing,1,1,183018.33,10500,4,0,0,0
+2014,GO Northern Europe corporate,Marketing,Marketing Manager,1,1,63523.19,2000,2,0,0,0
+2014,GO Northern Europe corporate,Marketing,Marketing Specialist,2,2,76403.26,2000,2,0,0,0
+2014,GO Northern Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,181999.6,10500,4,0,0,0
+2014,GO Northern Europe corporate,Sales (Corporate),Product Manager,2,2,133296.34,5750,7,0,0,0
+2014,GO Northern Europe corporate,Sales (Corporate),Product Technician,2,2,80488.24,750,2,0,0,0
+2014,GO Northern Europe corporate,Procurement,Procurement Manager,1,1,69635.27,0,0,0,0,0
+2014,GO Northern Europe corporate,Procurement,Procurement Coordinator,1,1,39937.9,0,0,0,0,0
+2014,GO Northern Europe corporate,Procurement,Procurement Clerk,2,2,67559.3,4750,6,0,0,0
+2014,GO Northern Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,180959.67,10500,4,0,0,0
+2014,GO Northern Europe corporate,Information Services and Technology,Information Technology Manager,1,1,82982.01,0,0,0,0,0
+2014,GO Northern Europe corporate,Information Services and Technology,System Analyst,0,0,0,0,0,0,0,0
+2014,GO Northern Europe corporate,Information Services and Technology,Software Engineer,1,1,77834.43,2000,2.5,0,0,1
+2014,GO Northern Europe corporate,Information Services and Technology,Computer Operator,0,0,0,0,0,0,0,0
+2014,GO Northern Europe corporate,Executive Offices,Executive Vice President,1,1,218821.67,10500,4,0,0,0
+2014,GO Northern Europe corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,1
+2014,GO Northern Europe operations,Production and Distribution,Regional Manager,0,0,77253.01,7750,10.5,0,0,0
+2014,GO Northern Europe operations,Production and Distribution,Franchise Distribution Manager,0,0,0,0,0,0,0,0
+2014,GO Northern Europe operations,Production and Distribution,Warehouse Manager,1,1,55539.72,0,0,0,0,0
+2014,GO Northern Europe operations,Production and Distribution,Warehouse Worker,3,3,90270.4,4350,13,0,0,2
+2014,GO Northern Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,37378.41,2300,7,0,0,1
+2014,GO Northern Europe operations,Customer Service,Customer Service Manager,1,1,95829.3,0,0,0,0,0
+2014,GO Northern Europe operations,Customer Service,Customer Service Coordinator,1,1,44602.42,250,1,0,0,0
+2014,GO Northern Europe operations,Customer Service,Customer Service Representative,2,2,87462.93,250,1,0,0,0
+2014,GO Northern Europe operations,Sales,Regional Sales Manager,1,1,130105.5,3500,4,0,0,0
+2014,GO Northern Europe operations,Sales,District Sales Manager,1,1,112096.59,3500,4,0,0,0
+2014,GO Northern Europe operations,Sales,Branch Sales Manager,3,3,257940.57,10500,12,0,0,0
+2014,GO Northern Europe operations,Sales,Level 1 Sales Representative,3,3,151757.03,10750,13,0,0,0
+2014,GO Northern Europe operations,Sales,Level 2 Sales Representative,4,4,383123.12,14000,16,0,0,0
+2014,GO Northern Europe operations,Sales,Level 3 Sales Representative,5,5,565244.15,24500,30.5,0,0,1
+2014,GO Northern Europe operations,Operations,General Manager of Operations,1,1,181709.54,10500,4,0,0,0
+2014,GO Southern Europe corporate,Human Resources,Vice President of Human Resources,1,1,187655.02,10500,4,0,0,0
+2014,GO Southern Europe corporate,Human Resources,Human Resources Administrator,1,1,43201.98,250,1,0,0,0
+2014,GO Southern Europe corporate,Human Resources,Benefit Specialist,1,1,35279.38,250,1,0,0,0
+2014,GO Southern Europe corporate,Human Resources,Human Resources Clerk,2,2,66499.41,0,0,0,0,0
+2014,GO Southern Europe corporate,Finance,Controller,1,1,187016.08,10500,4,0,0,0
+2014,GO Southern Europe corporate,Finance,Finance Manager,1,1,128452.13,0,0,0,0,0
+2014,GO Southern Europe corporate,Finance,Financial Analyst,1,1,63929.11,2750,4,0,0,0
+2014,GO Southern Europe corporate,Finance,Budget Analyst,1,1,43584.1,0,0,0,0,0
+2014,GO Southern Europe corporate,Finance,Payroll Clerk,1,1,36852.99,0,0,0,0,0
+2014,GO Southern Europe corporate,Finance,Accounting Manager,1,1,101729.09,0,0,0,0,0
+2014,GO Southern Europe corporate,Finance,Accountant 1,1,1,45113.7,250,1,0,0,0
+2014,GO Southern Europe corporate,Finance,Accountant 2,2,2,98634.23,11250,12.5,0,0,1
+2014,GO Southern Europe corporate,Finance,Accounting Clerk,1,1,34099.71,0,0,0,0,0
+2014,GO Southern Europe corporate,Marketing,Vice President of Marketing,1,1,186589.52,10500,4,0,0,0
+2014,GO Southern Europe corporate,Marketing,Marketing Manager,1,1,64182.61,7750,9,0,0,0
+2014,GO Southern Europe corporate,Marketing,Marketing Specialist,2,2,71272.58,2250,3,0,0,0
+2014,GO Southern Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,187101.4,10500,4,0,0,0
+2014,GO Southern Europe corporate,Sales (Corporate),Product Manager,2,2,149135.05,0,0,0,0,0
+2014,GO Southern Europe corporate,Sales (Corporate),Product Technician,1,1,45682.49,0,0,0,0,0
+2014,GO Southern Europe corporate,Procurement,Procurement Manager,1,1,67858.68,0,0,0,0,0
+2014,GO Southern Europe corporate,Procurement,Procurement Coordinator,2,2,84982.1,0,0,0,0,0
+2014,GO Southern Europe corporate,Procurement,Procurement Clerk,1,1,31774.84,0,0,0,0,0
+2014,GO Southern Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,186031.95,10500,4,0,0,0
+2014,GO Southern Europe corporate,Information Services and Technology,Information Technology Manager,1,1,97596.24,6500,6.5,1,0,1
+2014,GO Southern Europe corporate,Information Services and Technology,System Analyst,0,0,0,0,0,0,0,0
+2014,GO Southern Europe corporate,Information Services and Technology,Software Engineer,1,1,72544.52,500,1.5,0,0,1
+2014,GO Southern Europe corporate,Information Services and Technology,Computer Operator,0,0,0,0,0,0,0,0
+2014,GO Southern Europe corporate,Executive Offices,Executive Vice President,1,1,223843.68,10500,4,0,0,0
+2014,GO Southern Europe corporate,Production and Distribution,Regional Manager,0,1,0,0,0,0,0,1
+2014,GO Southern Europe operations,Production and Distribution,Regional Manager,0,0,32466.67,4000,5.5,0,0,0
+2014,GO Southern Europe operations,Production and Distribution,Franchise Distribution Manager,1,1,73025.19,0,0,0,0,0
+2014,GO Southern Europe operations,Production and Distribution,Warehouse Manager,1,1,59648.52,0,0,0,0,0
+2014,GO Southern Europe operations,Production and Distribution,Warehouse Worker,2,2,70716.2,0,0,0,0,0
+2014,GO Southern Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,56775.46,3850,5.5,0,0,0
+2014,GO Southern Europe operations,Customer Service,Customer Service Manager,1,1,78030.12,0,0,0,0,0
+2014,GO Southern Europe operations,Customer Service,Customer Service Coordinator,1,1,51408.05,0,0,0,0,0
+2014,GO Southern Europe operations,Customer Service,Customer Service Representative,2,3,100532.01,2750,5.5,0,0,1
+2014,GO Southern Europe operations,Sales,Regional Sales Manager,1,1,134377.68,3500,4,0,0,0
+2014,GO Southern Europe operations,Sales,Branch Sales Manager,3,3,266143.92,10500,12,0,0,0
+2014,GO Southern Europe operations,Sales,Level 1 Sales Representative,4,4,274735.63,34500,45.5,0,0,1
+2014,GO Southern Europe operations,Sales,Level 2 Sales Representative,4,4,309307.16,24500,30.5,0,0,1
+2014,GO Southern Europe operations,Sales,Level 3 Sales Representative,4,4,416420.42,33500,42,0,1,0
+2014,GO Southern Europe operations,Operations,General Manager of Operations,1,1,189098.12,10500,4,0,0,0
+2015,GO Americas corporate,Human Resources,Vice President of Human Resources,1,1,208576.96,11500,4,0,0,0
+2015,GO Americas corporate,Human Resources,Human Resources Administrator,1,1,56024.23,0,0,0,0,0
+2015,GO Americas corporate,Human Resources,Benefit Specialist,2,2,87514.88,0,0,0,0,0
+2015,GO Americas corporate,Human Resources,Human Resources Clerk,2,2,69346.45,0,0,0,0,0
+2015,GO Americas corporate,Finance,Controller,1,1,209974.53,11500,4,0,0,0
+2015,GO Americas corporate,Finance,Finance Manager,1,1,160240.88,0,0,0,0,0
+2015,GO Americas corporate,Finance,Financial Analyst,1,1,78253.67,0,0,0,0,0
+2015,GO Americas corporate,Finance,Budget Analyst,1,1,60021.97,0,0,0,0,0
+2015,GO Americas corporate,Finance,Payroll Clerk,2,2,82988.36,6750,9.5,0,0,0
+2015,GO Americas corporate,Finance,Accounting Manager,1,1,128125.56,0,0,0,0,0
+2015,GO Americas corporate,Finance,Accountant 1,1,1,49582.13,0,0,0,0,0
+2015,GO Americas corporate,Finance,Accountant 2,6,6,489548.08,12500,14,0,0,0
+2015,GO Americas corporate,Finance,Accounting Clerk,6,6,219294.3,0,0,0,0,0
+2015,GO Americas corporate,Marketing,Vice President of Marketing,1,1,206450.58,11500,4,0,0,0
+2015,GO Americas corporate,Marketing,Marketing Manager,1,1,73429.53,0,0,0,0,0
+2015,GO Americas corporate,Marketing,Marketing Specialist,3,3,129237.72,0,0,0,0,0
+2015,GO Americas corporate,Sales (Corporate),Vice President of Sales Management,1,1,207411.21,11500,4,0,0,0
+2015,GO Americas corporate,Sales (Corporate),Product Manager,2,2,131964.49,3000,3,1,1,0
+2015,GO Americas corporate,Sales (Corporate),Product Technician,3,3,107130.43,0,0,0,0,0
+2015,GO Americas corporate,Procurement,Procurement Manager,1,1,58063.87,250,1,0,0,0
+2015,GO Americas corporate,Procurement,Procurement Coordinator,1,1,46303.39,0,0,0,0,0
+2015,GO Americas corporate,Procurement,Procurement Clerk,2,2,71233.34,0,0,0,0,0
+2015,GO Americas corporate,Information Services and Technology,Vice President of Information Technology,1,1,205745.96,11500,4,0,0,0
+2015,GO Americas corporate,Information Services and Technology,Information Technology Manager,1,1,117146.17,0,0,0,0,0
+2015,GO Americas corporate,Information Services and Technology,System Analyst,1,1,42412.9,0,0,0,0,0
+2015,GO Americas corporate,Information Services and Technology,Software Engineer,2,2,144352.12,0,0,0,0,0
+2015,GO Americas corporate,Information Services and Technology,Computer Operator,2,2,70798.92,0,0,0,0,0
+2015,GO Americas corporate,Executive Offices,Executive Vice President,1,1,241445.01,11500,4,0,0,0
+2015,GO Americas corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2015,GO Americas corporate,Executive Offices,Chief Executive Officer,1,1,353367.49,11500,4,0,0,0
+2015,GO Americas corporate,Executive Offices,Chief Financial Officer,1,1,301109.2,11500,4,0,0,0
+2015,GO Americas operations,Production and Distribution,Regional Manager,0,0,152557.02,0,0,0,0,0
+2015,GO Americas operations,Production and Distribution,Franchise Distribution Manager,2,2,166773.69,0,0,0,0,0
+2015,GO Americas operations,Production and Distribution,Warehouse Manager,4,4,264223.44,0,0,0,0,0
+2015,GO Americas operations,Production and Distribution,Warehouse Worker,12,12,429941.29,2300,7,0,0,2
+2015,GO Americas operations,Production and Distribution,Warehouse Assistant Manager,3,4,199453.43,1450,4.5,0,1,0
+2015,GO Americas operations,Customer Service,Customer Service Manager,1,1,112813.16,0,0,0,0,0
+2015,GO Americas operations,Customer Service,Customer Service Coordinator,4,4,209088.82,750,2,0,0,0
+2015,GO Americas operations,Customer Service,Customer Service Representative,6,6,307386.99,250,1,0,0,0
+2015,GO Americas operations,Sales,Regional Sales Manager,1,1,159729.22,3500,4,0,0,0
+2015,GO Americas operations,Sales,District Sales Manager,2,2,259331.24,7000,8,0,0,0
+2015,GO Americas operations,Sales,Branch Sales Manager,8,8,763443.38,28000,32,0,0,0
+2015,GO Americas operations,Sales,Level 1 Sales Representative,11,11,723597.01,68250,79,2,0,2
+2015,GO Americas operations,Sales,Level 2 Sales Representative,8,8,793143.86,49250,58.5,0,0,0
+2015,GO Americas operations,Sales,Level 3 Sales Representative,13,13,1846443.07,75000,91.5,0,0,0
+2015,GO Americas operations,Operations,General Manager of Operations,1,1,211606.68,11500,4,0,0,0
+2015,GO Central Europe corporate,Human Resources,Vice President of Human Resources,1,1,195910.09,11500,4,0,0,0
+2015,GO Central Europe corporate,Human Resources,Human Resources Administrator,1,1,42716.52,9750,12.5,0,0,1
+2015,GO Central Europe corporate,Human Resources,Benefit Specialist,0,0,508.33,0,0,0,0,1
+2015,GO Central Europe corporate,Human Resources,Human Resources Clerk,1,2,37272.76,5000,10,0,0,3
+2015,GO Central Europe corporate,Finance,Controller,1,1,195148.35,11500,4,0,0,0
+2015,GO Central Europe corporate,Finance,Finance Manager,1,1,133128.81,0,0,0,0,0
+2015,GO Central Europe corporate,Finance,Financial Analyst,2,2,155731.05,0,0,0,0,0
+2015,GO Central Europe corporate,Finance,Budget Analyst,2,2,97003.99,0,0,0,0,0
+2015,GO Central Europe corporate,Finance,Payroll Clerk,0,0,5241.35,1500,2.5,0,0,1
+2015,GO Central Europe corporate,Finance,Accounting Manager,1,1,97346.99,0,0,0,0,0
+2015,GO Central Europe corporate,Finance,Accountant 1,0,1,12543.51,250,1,0,0,1
+2015,GO Central Europe corporate,Finance,Accountant 2,3,3,219739.07,8000,9.5,0,1,0
+2015,GO Central Europe corporate,Finance,Accounting Clerk,4,4,125697.3,11500,17,0,0,3
+2015,GO Central Europe corporate,Marketing,Vice President of Marketing,1,1,196233.5,11500,4,0,0,0
+2015,GO Central Europe corporate,Marketing,Marketing Manager,1,1,92686.59,0,0,0,0,0
+2015,GO Central Europe corporate,Marketing,Marketing Specialist,2,2,72710.28,5500,7.5,0,0,1
+2015,GO Central Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,197434.76,11500,4,0,0,0
+2015,GO Central Europe corporate,Sales (Corporate),Product Manager,2,2,145755.21,9750,12.5,0,0,1
+2015,GO Central Europe corporate,Sales (Corporate),Product Technician,2,2,84064.98,1750,4.5,0,0,1
+2015,GO Central Europe corporate,Procurement,Procurement Manager,1,1,60510.71,9750,12.5,0,0,1
+2015,GO Central Europe corporate,Procurement,Procurement Coordinator,1,2,62643.23,19250,24,0,0,2
+2015,GO Central Europe corporate,Procurement,Procurement Clerk,0,0,0,0,0,0,0,0
+2015,GO Central Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,198258.65,11500,4,0,0,0
+2015,GO Central Europe corporate,Information Services and Technology,Information Technology Manager,1,1,93112.36,6000,6,1,1,0
+2015,GO Central Europe corporate,Information Services and Technology,System Analyst,1,1,42102.48,0,0,0,0,0
+2015,GO Central Europe corporate,Information Services and Technology,Software Engineer,3,4,219930.51,250,1,0,0,0
+2015,GO Central Europe corporate,Information Services and Technology,Computer Operator,2,2,56429,6000,6.5,0,0,1
+2015,GO Central Europe corporate,Executive Offices,Executive Vice President,1,1,232507.6,11500,4,0,0,0
+2015,GO Central Europe corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2015,GO Central Europe operations,Sales (Corporate),Product Technician,0,0,0,0,0,0,0,0
+2015,GO Central Europe operations,Production and Distribution,Regional Manager,0,0,129205.25,0,0,0,0,0
+2015,GO Central Europe operations,Production and Distribution,Franchise Distribution Manager,1,1,70549.05,0,0,0,0,0
+2015,GO Central Europe operations,Production and Distribution,Warehouse Manager,1,1,61470.75,5000,5,0,0,0
+2015,GO Central Europe operations,Production and Distribution,Warehouse Worker,7,8,247377.4,8950,27.5,0,0,3
+2015,GO Central Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,56574.05,3000,3,0,0,0
+2015,GO Central Europe operations,Customer Service,Customer Service Manager,1,1,86440.46,0,0,0,0,0
+2015,GO Central Europe operations,Customer Service,Customer Service Coordinator,2,2,118746.45,0,0,0,0,0
+2015,GO Central Europe operations,Customer Service,Customer Service Representative,2,2,84462.38,2500,4.5,1,0,1
+2015,GO Central Europe operations,Sales,Regional Sales Manager,1,1,146924.39,3500,4,0,0,0
+2015,GO Central Europe operations,Sales,District Sales Manager,2,2,246074.37,16750,20.5,1,0,1
+2015,GO Central Europe operations,Sales,Branch Sales Manager,8,8,717369.11,66750,81.5,1,1,2
+2015,GO Central Europe operations,Sales,Level 1 Sales Representative,9,9,602023.4,88000,111.5,0,0,5
+2015,GO Central Europe operations,Sales,Level 2 Sales Representative,10,10,949975.19,72500,90,1,0,3
+2015,GO Central Europe operations,Sales,Level 3 Sales Representative,11,11,1291321.59,93250,121.5,0,0,4
+2015,GO Central Europe operations,Operations,General Manager of Operations,1,1,198226.57,11500,4,0,0,0
+2015,GO Asia Pacific corporate,Human Resources,Vice President of Human Resources,1,1,172529.21,11500,4,0,0,0
+2015,GO Asia Pacific corporate,Human Resources,Human Resources Administrator,1,1,41938.71,0,0,0,0,0
+2015,GO Asia Pacific corporate,Human Resources,Benefit Specialist,1,1,36785.3,0,0,0,0,0
+2015,GO Asia Pacific corporate,Human Resources,Human Resources Clerk,1,1,30030.08,0,0,0,0,0
+2015,GO Asia Pacific corporate,Finance,Controller,1,1,170811.77,11500,4,0,0,0
+2015,GO Asia Pacific corporate,Finance,Finance Manager,1,1,119070.1,0,0,0,0,0
+2015,GO Asia Pacific corporate,Finance,Financial Analyst,1,1,62895.61,0,0,0,0,0
+2015,GO Asia Pacific corporate,Finance,Budget Analyst,1,1,35707.81,0,0,0,0,0
+2015,GO Asia Pacific corporate,Finance,Payroll Clerk,2,3,79824.62,12500,17.5,0,0,3
+2015,GO Asia Pacific corporate,Finance,Accounting Manager,1,1,99999.27,0,0,0,0,0
+2015,GO Asia Pacific corporate,Finance,Accountant 1,1,1,42847.17,15500,17,0,0,2
+2015,GO Asia Pacific corporate,Finance,Accountant 2,2,2,138616.72,0,0,0,0,0
+2015,GO Asia Pacific corporate,Finance,Accounting Clerk,3,3,79570.93,6750,9.5,0,0,1
+2015,GO Asia Pacific corporate,Marketing,Vice President of Marketing,1,1,170423.67,11500,4,0,0,0
+2015,GO Asia Pacific corporate,Marketing,Marketing Manager,1,1,56993.68,6000,6,1,1,0
+2015,GO Asia Pacific corporate,Marketing,Marketing Specialist,5,5,163037.65,13250,18,0,0,2
+2015,GO Asia Pacific corporate,Sales (Corporate),Vice President of Sales Management,1,1,172008.89,11500,4,0,0,0
+2015,GO Asia Pacific corporate,Sales (Corporate),Product Manager,1,1,60942.98,0,0,0,0,0
+2015,GO Asia Pacific corporate,Sales (Corporate),Product Technician,2,3,83978.69,3250,8,0,0,2
+2015,GO Asia Pacific corporate,Procurement,Procurement Manager,1,1,50465.77,0,0,1,1,0
+2015,GO Asia Pacific corporate,Procurement,Procurement Coordinator,0,0,2794.27,0,0,0,0,0
+2015,GO Asia Pacific corporate,Procurement,Procurement Clerk,3,3,87092.76,7750,10.5,0,0,1
+2015,GO Asia Pacific corporate,Information Services and Technology,Vice President of Information Technology,1,1,171689.46,11500,4,0,0,0
+2015,GO Asia Pacific corporate,Information Services and Technology,Information Technology Manager,1,1,80710.78,0,0,0,0,0
+2015,GO Asia Pacific corporate,Information Services and Technology,System Analyst,1,1,26715.91,8000,8.5,0,0,1
+2015,GO Asia Pacific corporate,Information Services and Technology,Software Engineer,2,2,85693.63,16250,18,0,0,1
+2015,GO Asia Pacific corporate,Information Services and Technology,Computer Operator,2,2,54612.97,6250,7.5,0,0,1
+2015,GO Asia Pacific corporate,Executive Offices,Executive Vice President,1,1,203106.04,11500,4,0,0,0
+2015,GO Asia Pacific corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2015,GO Asia Pacific operations,Production and Distribution,Regional Manager,0,0,96331.41,0,0,0,0,0
+2015,GO Asia Pacific operations,Production and Distribution,Franchise Distribution Manager,1,1,58035.21,0,0,0,0,0
+2015,GO Asia Pacific operations,Production and Distribution,Warehouse Manager,3,3,148572.11,11300,16,0,0,1
+2015,GO Asia Pacific operations,Production and Distribution,Warehouse Worker,8,9,262369.07,6400,19,0,0,3
+2015,GO Asia Pacific operations,Production and Distribution,Warehouse Assistant Manager,1,1,47504.17,0,0,0,0,0
+2015,GO Asia Pacific operations,Customer Service,Customer Service Manager,1,1,79506.92,0,0,0,0,0
+2015,GO Asia Pacific operations,Customer Service,Customer Service Coordinator,2,2,99198.56,0,0,0,0,0
+2015,GO Asia Pacific operations,Customer Service,Customer Service Representative,8,7,307849.49,14050,25.5,2,0,5
+2015,GO Asia Pacific operations,Sales,Regional Sales Manager,1,1,118886.79,3500,4,0,0,0
+2015,GO Asia Pacific operations,Sales,District Sales Manager,2,2,209152.29,16750,20.5,1,0,1
+2015,GO Asia Pacific operations,Sales,Branch Sales Manager,6,6,524854.65,30750,36.5,1,1,1
+2015,GO Asia Pacific operations,Sales,Level 1 Sales Representative,5,5,329154.8,45750,55,0,0,2
+2015,GO Asia Pacific operations,Sales,Level 2 Sales Representative,11,11,1050649.75,78250,95,0,0,3
+2015,GO Asia Pacific operations,Sales,Level 3 Sales Representative,13,13,1509406.33,76750,89.5,0,0,2
+2015,GO Asia Pacific operations,Operations,General Manager of Operations,1,1,170436.02,11500,4,0,0,0
+2015,GO Accessories corporate,Human Resources,Vice President of Human Resources,1,1,189143.43,11500,4,0,0,0
+2015,GO Accessories corporate,Human Resources,Human Resources Administrator,1,1,51478.55,0,0,0,0,0
+2015,GO Accessories corporate,Human Resources,Benefit Specialist,1,1,43576.43,0,0,0,0,0
+2015,GO Accessories corporate,Human Resources,Human Resources Clerk,2,2,50238.31,2500,4.5,0,0,2
+2015,GO Accessories corporate,Finance,Controller,1,1,189215.53,11500,4,0,0,0
+2015,GO Accessories corporate,Finance,Finance Manager,1,1,114284.98,5750,7,0,0,0
+2015,GO Accessories corporate,Finance,Financial Analyst,3,3,189568.61,4750,7.5,0,0,1
+2015,GO Accessories corporate,Finance,Budget Analyst,3,3,132409.47,0,0,0,0,0
+2015,GO Accessories corporate,Finance,Payroll Clerk,3,3,93474.49,9000,13,1,0,2
+2015,GO Accessories corporate,Finance,Accounting Manager,1,1,97622.34,0,0,0,0,0
+2015,GO Accessories corporate,Finance,Accountant 1,4,4,192532.18,8000,9.5,0,0,1
+2015,GO Accessories corporate,Finance,Accountant 2,2,2,139804.81,3500,4,0,0,0
+2015,GO Accessories corporate,Finance,Accounting Clerk,3,3,102311.68,10000,13,0,0,1
+2015,GO Accessories corporate,Marketing,Vice President of Marketing,1,1,187130.67,11500,4,0,0,0
+2015,GO Accessories corporate,Marketing,Marketing Manager,1,1,62493.75,2250,3,0,0,0
+2015,GO Accessories corporate,Marketing,Marketing Specialist,5,5,200302.32,2250,3,0,0,0
+2015,GO Accessories corporate,Sales (Corporate),Vice President of Sales Management,1,1,187093.12,11500,4,0,0,0
+2015,GO Accessories corporate,Sales (Corporate),Product Manager,2,2,137077.14,0,0,0,0,0
+2015,GO Accessories corporate,Sales (Corporate),Product Technician,3,3,134009.53,1750,4.5,1,0,1
+2015,GO Accessories corporate,Procurement,Procurement Manager,1,1,77472.41,0,0,0,0,0
+2015,GO Accessories corporate,Procurement,Procurement Coordinator,0,0,0,0,0,0,0,0
+2015,GO Accessories corporate,Procurement,Procurement Clerk,4,4,134361.93,2750,4,0,0,0
+2015,GO Accessories corporate,Information Services and Technology,Vice President of Information Technology,1,1,189862.57,11500,4,0,0,0
+2015,GO Accessories corporate,Information Services and Technology,Information Technology Manager,1,1,91813.9,0,0,0,0,0
+2015,GO Accessories corporate,Information Services and Technology,System Analyst,1,1,29627.27,8000,8.5,0,0,1
+2015,GO Accessories corporate,Information Services and Technology,Software Engineer,2,2,117823.02,750,2,0,0,0
+2015,GO Accessories corporate,Information Services and Technology,Computer Operator,1,1,30875.96,0,0,0,0,0
+2015,GO Accessories corporate,Executive Offices,Executive Vice President,1,1,223478.3,11500,4,0,0,0
+2015,GO Accessories corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2015,GO Accessories operations,Production and Distribution,Regional Manager,0,0,118493.3,0,0,0,0,0
+2015,GO Accessories operations,Production and Distribution,Franchise Distribution Manager,0,0,0,0,0,0,0,0
+2015,GO Accessories operations,Production and Distribution,Warehouse Manager,1,1,62965.08,0,0,0,0,0
+2015,GO Accessories operations,Production and Distribution,Warehouse Worker,5,5,194444.23,1450,4.5,0,0,1
+2015,GO Accessories operations,Customer Service,Customer Service Manager,1,1,92523.88,0,0,0,0,0
+2015,GO Accessories operations,Customer Service,Customer Service Coordinator,2,2,98683.3,0,0,0,0,0
+2015,GO Accessories operations,Customer Service,Customer Service Representative,7,8,322565.49,5750,12,1,0,2
+2015,GO Accessories operations,Sales,Regional Sales Manager,1,1,139995.73,3500,4,0,0,0
+2015,GO Accessories operations,Sales,Branch Sales Manager,1,1,94731.47,6500,7,1,1,0
+2015,GO Accessories operations,Sales,Level 1 Sales Representative,9,9,784870.09,64750,85,0,0,2
+2015,GO Accessories operations,Sales,Level 2 Sales Representative,11,12,1285225.91,76000,99,0,1,2
+2015,GO Accessories operations,Sales,Level 3 Sales Representative,7,7,962576.7,58500,76.5,0,1,3
+2015,GO Accessories operations,Operations,General Manager of Operations,1,1,186933.23,11500,4,0,0,0
+2015,GO Northern Europe corporate,Human Resources,Vice President of Human Resources,1,1,188589.45,11500,4,0,0,0
+2015,GO Northern Europe corporate,Human Resources,Human Resources Administrator,1,1,44188.95,250,1,0,0,0
+2015,GO Northern Europe corporate,Human Resources,Benefit Specialist,1,1,34619.32,750,2,0,0,0
+2015,GO Northern Europe corporate,Human Resources,Human Resources Clerk,1,1,32056.05,1750,4.5,0,0,1
+2015,GO Northern Europe corporate,Finance,Controller,1,1,187006.58,11500,4,0,0,0
+2015,GO Northern Europe corporate,Finance,Finance Manager,1,1,123195.88,0,0,0,0,0
+2015,GO Northern Europe corporate,Finance,Financial Analyst,1,1,67720.44,0,0,0,0,0
+2015,GO Northern Europe corporate,Finance,Budget Analyst,1,1,38376.88,0,0,0,0,0
+2015,GO Northern Europe corporate,Finance,Payroll Clerk,2,2,69244.57,0,0,0,0,0
+2015,GO Northern Europe corporate,Finance,Accounting Manager,1,1,99842.56,0,0,0,0,0
+2015,GO Northern Europe corporate,Finance,Accountant 1,0,0,0,0,0,0,0,0
+2015,GO Northern Europe corporate,Finance,Accountant 2,4,4,259597.42,8250,10.5,0,0,1
+2015,GO Northern Europe corporate,Finance,Accounting Clerk,2,3,84901.73,4000,5.5,0,0,1
+2015,GO Northern Europe corporate,Marketing,Vice President of Marketing,1,1,189229.96,11500,4,0,0,0
+2015,GO Northern Europe corporate,Marketing,Marketing Manager,1,1,69712.28,0,0,0,0,0
+2015,GO Northern Europe corporate,Marketing,Marketing Specialist,2,2,86988.58,500,1.5,0,0,1
+2015,GO Northern Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,187463.78,11500,4,0,0,0
+2015,GO Northern Europe corporate,Sales (Corporate),Product Manager,2,2,143078.92,0,0,0,0,0
+2015,GO Northern Europe corporate,Sales (Corporate),Product Technician,2,2,84952.3,1000,2.5,1,0,1
+2015,GO Northern Europe corporate,Procurement,Procurement Manager,1,1,77146.01,0,0,0,0,0
+2015,GO Northern Europe corporate,Procurement,Procurement Coordinator,1,1,42763.62,0,0,0,0,0
+2015,GO Northern Europe corporate,Procurement,Procurement Clerk,2,2,68903.58,0,0,0,0,0
+2015,GO Northern Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,186395.17,11500,4,0,0,0
+2015,GO Northern Europe corporate,Information Services and Technology,Information Technology Manager,1,1,92576.81,0,0,0,0,0
+2015,GO Northern Europe corporate,Information Services and Technology,System Analyst,0,0,0,0,0,0,0,0
+2015,GO Northern Europe corporate,Information Services and Technology,Software Engineer,2,2,135234.47,6250,7,0,0,0
+2015,GO Northern Europe corporate,Information Services and Technology,Computer Operator,0,0,0,0,0,0,0,0
+2015,GO Northern Europe corporate,Executive Offices,Executive Vice President,1,1,222840.54,11500,4,0,0,0
+2015,GO Northern Europe corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2015,GO Northern Europe operations,Production and Distribution,Regional Manager,0,0,106712.44,0,0,0,0,0
+2015,GO Northern Europe operations,Production and Distribution,Franchise Distribution Manager,0,0,0,0,0,0,0,0
+2015,GO Northern Europe operations,Production and Distribution,Warehouse Manager,1,1,58616.19,0,0,0,0,0
+2015,GO Northern Europe operations,Production and Distribution,Warehouse Worker,4,4,127609.23,2300,7,0,0,1
+2015,GO Northern Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,55872.47,3000,3,0,0,0
+2015,GO Northern Europe operations,Customer Service,Customer Service Manager,1,1,101813.51,0,0,0,0,0
+2015,GO Northern Europe operations,Customer Service,Customer Service Coordinator,2,2,82136.88,2750,5.5,0,0,1
+2015,GO Northern Europe operations,Customer Service,Customer Service Representative,4,4,150533.31,5500,11,0,0,2
+2015,GO Northern Europe operations,Sales,Regional Sales Manager,1,1,136853.96,3500,4,0,0,0
+2015,GO Northern Europe operations,Sales,District Sales Manager,1,1,118010.73,3500,4,0,0,0
+2015,GO Northern Europe operations,Sales,Branch Sales Manager,3,3,275643.63,10500,12,0,0,0
+2015,GO Northern Europe operations,Sales,Level 1 Sales Representative,5,5,277551.16,40750,51.5,0,0,3
+2015,GO Northern Europe operations,Sales,Level 2 Sales Representative,4,4,448284.31,22000,26,0,0,0
+2015,GO Northern Europe operations,Sales,Level 3 Sales Representative,5,5,621465.21,30000,37.5,0,0,0
+2015,GO Northern Europe operations,Operations,General Manager of Operations,1,1,186639.2,11500,4,0,0,0
+2015,GO Southern Europe corporate,Human Resources,Vice President of Human Resources,1,1,202834.18,11500,4,0,0,0
+2015,GO Southern Europe corporate,Human Resources,Human Resources Administrator,1,1,47305.1,0,0,0,0,0
+2015,GO Southern Europe corporate,Human Resources,Benefit Specialist,1,1,39319.31,0,0,0,0,0
+2015,GO Southern Europe corporate,Human Resources,Human Resources Clerk,2,2,70171.9,0,0,0,0,0
+2015,GO Southern Europe corporate,Finance,Controller,1,1,201186.09,11500,4,0,0,0
+2015,GO Southern Europe corporate,Finance,Finance Manager,1,1,141278.49,0,0,0,0,0
+2015,GO Southern Europe corporate,Finance,Financial Analyst,1,1,68398.4,0,0,0,0,0
+2015,GO Southern Europe corporate,Finance,Budget Analyst,1,1,47109.01,0,0,0,0,0
+2015,GO Southern Europe corporate,Finance,Payroll Clerk,1,1,36110.75,4500,6.5,1,0,1
+2015,GO Southern Europe corporate,Finance,Accounting Manager,1,1,109629.71,0,0,0,0,0
+2015,GO Southern Europe corporate,Finance,Accountant 1,2,2,98116.32,8000,9.5,0,0,1
+2015,GO Southern Europe corporate,Finance,Accountant 2,2,2,134083.71,250,1,0,0,0
+2015,GO Southern Europe corporate,Finance,Accounting Clerk,2,2,57101.86,4500,6.5,0,0,1
+2015,GO Southern Europe corporate,Marketing,Vice President of Marketing,1,1,202522.79,11500,4,0,0,0
+2015,GO Southern Europe corporate,Marketing,Marketing Manager,1,1,67319.64,0,0,0,0,0
+2015,GO Southern Europe corporate,Marketing,Marketing Specialist,2,2,77368.78,0,0,0,0,0
+2015,GO Southern Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,201536.95,11500,4,0,0,0
+2015,GO Southern Europe corporate,Sales (Corporate),Product Manager,2,2,166700.24,0,0,0,0,0
+2015,GO Southern Europe corporate,Sales (Corporate),Product Technician,2,2,79730.27,1750,4.5,0,0,1
+2015,GO Southern Europe corporate,Procurement,Procurement Manager,1,1,75582.28,0,0,0,0,0
+2015,GO Southern Europe corporate,Procurement,Procurement Coordinator,2,2,90489.8,0,0,0,0,0
+2015,GO Southern Europe corporate,Procurement,Procurement Clerk,1,1,35621.31,3000,4.5,1,0,1
+2015,GO Southern Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,200712.16,11500,4,0,0,0
+2015,GO Southern Europe corporate,Information Services and Technology,Information Technology Manager,1,1,81213.73,6250,8,0,0,0
+2015,GO Southern Europe corporate,Information Services and Technology,System Analyst,1,1,25719.04,8000,8.5,0,0,1
+2015,GO Southern Europe corporate,Information Services and Technology,Software Engineer,2,2,132257.23,7750,8,0,0,0
+2015,GO Southern Europe corporate,Information Services and Technology,Computer Operator,0,0,0,0,0,0,0,0
+2015,GO Southern Europe corporate,Executive Offices,Executive Vice President,1,1,239014.41,11500,4,0,0,0
+2015,GO Southern Europe corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2015,GO Southern Europe operations,Production and Distribution,Regional Manager,0,0,103723.63,3750,5,0,0,0
+2015,GO Southern Europe operations,Production and Distribution,Franchise Distribution Manager,1,1,77574.6,0,0,0,0,0
+2015,GO Southern Europe operations,Production and Distribution,Warehouse Manager,1,1,64292.53,0,0,0,0,0
+2015,GO Southern Europe operations,Production and Distribution,Warehouse Worker,3,3,106624.31,2550,8,0,0,2
+2015,GO Southern Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,56917.21,0,0,0,0,0
+2015,GO Southern Europe operations,Customer Service,Customer Service Manager,1,1,87713.93,0,0,0,0,0
+2015,GO Southern Europe operations,Customer Service,Customer Service Coordinator,1,1,56294.13,0,0,0,0,0
+2015,GO Southern Europe operations,Customer Service,Customer Service Representative,4,4,146695.3,2750,5.5,0,0,1
+2015,GO Southern Europe operations,Sales,Regional Sales Manager,1,1,126445.32,11250,14.5,1,1,0
+2015,GO Southern Europe operations,Sales,Branch Sales Manager,3,3,275311.06,20500,25.5,1,1,1
+2015,GO Southern Europe operations,Sales,Level 1 Sales Representative,4,4,295156.09,24500,29.5,0,0,1
+2015,GO Southern Europe operations,Sales,Level 2 Sales Representative,4,4,340479.3,25250,31.5,0,0,1
+2015,GO Southern Europe operations,Sales,Level 3 Sales Representative,5,5,558405.56,30000,37.5,0,0,0
+2015,GO Southern Europe operations,Operations,General Manager of Operations,1,1,203757.22,11500,4,0,0,0
+2016,GO Americas corporate,Human Resources,Vice President of Human Resources,1,1,214081.64,12500,4,0,0,0
+2016,GO Americas corporate,Human Resources,Human Resources Administrator,1,1,62325.23,0,0,0,0,0
+2016,GO Americas corporate,Human Resources,Benefit Specialist,2,2,93185.04,0,0,0,0,0
+2016,GO Americas corporate,Human Resources,Human Resources Clerk,2,2,75505.54,0,0,0,0,0
+2016,GO Americas corporate,Finance,Controller,1,1,236128.94,12500,4,0,0,0
+2016,GO Americas corporate,Finance,Finance Manager,1,1,185700.9,0,0,0,0,0
+2016,GO Americas corporate,Finance,Financial Analyst,1,1,88428.03,0,0,0,0,0
+2016,GO Americas corporate,Finance,Budget Analyst,1,1,62331.27,0,0,0,0,0
+2016,GO Americas corporate,Finance,Payroll Clerk,2,2,81550.98,0,0,0,0,0
+2016,GO Americas corporate,Finance,Accounting Manager,1,1,135163.47,0,0,0,0,0
+2016,GO Americas corporate,Finance,Accountant 1,1,1,53761.16,0,0,0,0,0
+2016,GO Americas corporate,Finance,Accountant 2,6,6,538331.78,0,0,0,0,0
+2016,GO Americas corporate,Finance,Accounting Clerk,6,6,233448.12,0,0,0,0,0
+2016,GO Americas corporate,Marketing,Vice President of Marketing,1,1,211919.06,12500,4,0,0,0
+2016,GO Americas corporate,Marketing,Marketing Manager,1,1,51640.1,6000,6,1,1,0
+2016,GO Americas corporate,Marketing,Marketing Specialist,2,2,113529.52,4000,4,0,0,0
+2016,GO Americas corporate,Sales (Corporate),Vice President of Sales Management,1,1,214395.8,12500,4,0,0,0
+2016,GO Americas corporate,Sales (Corporate),Product Manager,2,2,138519.01,5000,5,0,0,0
+2016,GO Americas corporate,Sales (Corporate),Product Technician,2,2,84147.49,9500,10,0,0,0
+2016,GO Americas corporate,Procurement,Procurement Manager,1,1,66581.44,0,0,0,0,0
+2016,GO Americas corporate,Procurement,Procurement Coordinator,1,1,52378.29,0,0,0,0,0
+2016,GO Americas corporate,Procurement,Procurement Clerk,2,2,79498.37,0,0,0,0,0
+2016,GO Americas corporate,Information Services and Technology,Vice President of Information Technology,1,1,211295.07,12500,4,0,0,0
+2016,GO Americas corporate,Information Services and Technology,Information Technology Manager,1,1,119908.42,0,0,0,0,0
+2016,GO Americas corporate,Information Services and Technology,System Analyst,1,1,46509.14,0,0,0,0,0
+2016,GO Americas corporate,Information Services and Technology,Software Engineer,2,2,150795.43,0,0,0,0,0
+2016,GO Americas corporate,Information Services and Technology,Computer Operator,2,2,73039.4,0,0,0,0,0
+2016,GO Americas corporate,Executive Offices,Executive Vice President,1,1,269093.46,12500,4,0,0,0
+2016,GO Americas corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2016,GO Americas corporate,Executive Offices,Chief Executive Officer,1,1,393913.72,12500,4,0,0,0
+2016,GO Americas corporate,Executive Offices,Chief Financial Officer,1,1,335302.69,12500,4,0,0,0
+2016,GO Americas operations,Production and Distribution,Regional Manager,0,0,155266.2,0,0,0,0,0
+2016,GO Americas operations,Production and Distribution,Franchise Distribution Manager,1,1,75714.85,0,0,1,0,0
+2016,GO Americas operations,Production and Distribution,Warehouse Manager,4,4,276319.27,0,0,0,0,0
+2016,GO Americas operations,Production and Distribution,Warehouse Worker,12,12,473921.09,10500,33.5,1,0,1
+2016,GO Americas operations,Production and Distribution,Warehouse Assistant Manager,4,4,241956.74,3850,5.5,0,0,0
+2016,GO Americas operations,Customer Service,Customer Service Manager,1,1,115253.26,0,0,0,0,0
+2016,GO Americas operations,Customer Service,Customer Service Coordinator,4,4,224439.49,0,0,0,0,0
+2016,GO Americas operations,Customer Service,Customer Service Representative,6,6,324954.76,38000,35,0,0,0
+2016,GO Americas operations,Sales,Regional Sales Manager,1,1,161820.1,4500,5,0,0,0
+2016,GO Americas operations,Sales,District Sales Manager,2,2,258211.07,18750,22.5,1,0,1
+2016,GO Americas operations,Sales,Branch Sales Manager,8,8,803041.06,36000,40,0,0,0
+2016,GO Americas operations,Sales,Level 1 Sales Representative,11,11,885836.61,57500,66.5,1,0,1
+2016,GO Americas operations,Sales,Level 2 Sales Representative,7,7,870292.89,31500,35,1,1,0
+2016,GO Americas operations,Sales,Level 3 Sales Representative,13,13,1968456.05,54000,60,1,1,0
+2016,GO Americas operations,Operations,General Manager of Operations,1,1,237107.07,12500,4,0,0,0
+2016,GO Central Europe corporate,Human Resources,Vice President of Human Resources,1,1,201216.01,12500,4,0,0,0
+2016,GO Central Europe corporate,Human Resources,Human Resources Administrator,1,1,43682.89,0,0,0,0,0
+2016,GO Central Europe corporate,Human Resources,Benefit Specialist,1,1,36205.47,2750,5.5,0,0,0
+2016,GO Central Europe corporate,Human Resources,Human Resources Clerk,3,3,91147.47,3250,6.5,0,0,0
+2016,GO Central Europe corporate,Finance,Controller,1,1,200114.22,12500,4,0,0,0
+2016,GO Central Europe corporate,Finance,Finance Manager,1,1,146203.95,0,0,0,0,0
+2016,GO Central Europe corporate,Finance,Financial Analyst,2,2,171112.5,0,0,0,0,0
+2016,GO Central Europe corporate,Finance,Budget Analyst,2,2,104018.52,0,0,0,0,0
+2016,GO Central Europe corporate,Finance,Payroll Clerk,2,2,56375.01,9750,13.5,0,0,1
+2016,GO Central Europe corporate,Finance,Accounting Manager,1,1,104792.48,0,0,0,0,0
+2016,GO Central Europe corporate,Finance,Accountant 1,2,2,79841.94,15500,17,0,0,1
+2016,GO Central Europe corporate,Finance,Accountant 2,5,5,350699.56,16000,19,0,0,2
+2016,GO Central Europe corporate,Finance,Accounting Clerk,5,5,169812.23,8750,11.5,0,0,0
+2016,GO Central Europe corporate,Marketing,Vice President of Marketing,1,1,201672.57,12500,4,0,0,0
+2016,GO Central Europe corporate,Marketing,Marketing Manager,1,1,95940.93,0,0,0,0,0
+2016,GO Central Europe corporate,Marketing,Marketing Specialist,2,2,88177.91,4500,6,0,0,0
+2016,GO Central Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,202474.86,12500,4,0,0,0
+2016,GO Central Europe corporate,Sales (Corporate),Product Manager,2,2,155622.49,0,0,0,0,0
+2016,GO Central Europe corporate,Sales (Corporate),Product Technician,2,2,76797.14,14250,18.5,2,0,2
+2016,GO Central Europe corporate,Procurement,Procurement Manager,1,1,64328.34,0,0,0,0,0
+2016,GO Central Europe corporate,Procurement,Procurement Coordinator,2,2,73478.58,250,1,0,0,0
+2016,GO Central Europe corporate,Procurement,Procurement Clerk,1,1,35388.43,7000,11,0,0,2
+2016,GO Central Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,204687.35,12500,4,0,0,0
+2016,GO Central Europe corporate,Information Services and Technology,Information Technology Manager,1,1,81468.24,0,0,0,0,0
+2016,GO Central Europe corporate,Information Services and Technology,System Analyst,1,1,46476.68,0,0,0,0,0
+2016,GO Central Europe corporate,Information Services and Technology,Software Engineer,3,3,207671.63,0,0,0,0,0
+2016,GO Central Europe corporate,Information Services and Technology,Computer Operator,2,2,66930.17,250,1,0,0,0
+2016,GO Central Europe corporate,Executive Offices,Executive Vice President,1,1,236792.36,12500,4,0,0,0
+2016,GO Central Europe corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2016,GO Central Europe operations,Sales (Corporate),Product Technician,0,0,0,0,0,0,0,0
+2016,GO Central Europe operations,Production and Distribution,Regional Manager,0,0,148500.63,0,0,0,0,0
+2016,GO Central Europe operations,Production and Distribution,Franchise Distribution Manager,1,1,76092.72,0,0,0,0,0
+2016,GO Central Europe operations,Production and Distribution,Warehouse Manager,1,1,60689.76,0,0,0,0,0
+2016,GO Central Europe operations,Production and Distribution,Warehouse Worker,8,8,284270.49,3900,8,0,0,0
+2016,GO Central Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,56497.23,0,0,0,0,0
+2016,GO Central Europe operations,Customer Service,Customer Service Manager,1,1,92119.8,0,0,0,0,0
+2016,GO Central Europe operations,Customer Service,Customer Service Coordinator,2,2,112384.4,2750,5.5,1,0,1
+2016,GO Central Europe operations,Customer Service,Customer Service Representative,4,4,142719.58,28700,35,0,0,2
+2016,GO Central Europe operations,Sales,Regional Sales Manager,1,1,154510.1,4500,5,0,0,0
+2016,GO Central Europe operations,Sales,District Sales Manager,2,2,245745.82,9000,10,0,0,0
+2016,GO Central Europe operations,Sales,Branch Sales Manager,8,8,738344.1,36000,40,0,0,0
+2016,GO Central Europe operations,Sales,Level 1 Sales Representative,10,10,734232.42,63250,74,1,0,1
+2016,GO Central Europe operations,Sales,Level 2 Sales Representative,11,11,1111766.29,66750,78,0,0,1
+2016,GO Central Europe operations,Sales,Level 3 Sales Representative,11,11,1392294.44,49500,55,0,0,0
+2016,GO Central Europe operations,Operations,General Manager of Operations,1,1,204429.69,12500,4,0,0,0
+2016,GO Asia Pacific corporate,Human Resources,Vice President of Human Resources,1,1,186633.09,12500,4,0,0,0
+2016,GO Asia Pacific corporate,Human Resources,Human Resources Administrator,1,1,45684.99,0,0,0,0,0
+2016,GO Asia Pacific corporate,Human Resources,Benefit Specialist,1,1,39339.95,0,0,0,0,0
+2016,GO Asia Pacific corporate,Human Resources,Human Resources Clerk,1,2,43412.97,2000,3.5,0,0,1
+2016,GO Asia Pacific corporate,Finance,Controller,1,1,184044.39,12500,4,0,0,0
+2016,GO Asia Pacific corporate,Finance,Finance Manager,1,1,130265.05,0,0,0,0,0
+2016,GO Asia Pacific corporate,Finance,Financial Analyst,1,1,68828.82,0,0,0,0,0
+2016,GO Asia Pacific corporate,Finance,Budget Analyst,2,2,74096.19,8000,9.5,0,0,1
+2016,GO Asia Pacific corporate,Finance,Payroll Clerk,4,4,128706.06,11750,16.5,1,0,1
+2016,GO Asia Pacific corporate,Finance,Accounting Manager,1,1,111517.91,0,0,0,0,0
+2016,GO Asia Pacific corporate,Finance,Accountant 1,2,2,80433.51,500,2,0,0,0
+2016,GO Asia Pacific corporate,Finance,Accountant 2,3,3,200858.3,8000,9.5,0,0,1
+2016,GO Asia Pacific corporate,Finance,Accounting Clerk,3,3,91810.97,2250,3,0,0,0
+2016,GO Asia Pacific corporate,Marketing,Vice President of Marketing,1,1,183211.33,12500,4,0,0,0
+2016,GO Asia Pacific corporate,Marketing,Marketing Manager,1,1,57393.62,0,0,0,0,0
+2016,GO Asia Pacific corporate,Marketing,Marketing Specialist,5,5,189543.52,10000,13.5,1,0,1
+2016,GO Asia Pacific corporate,Sales (Corporate),Vice President of Sales Management,1,1,185229.05,12500,4,0,0,0
+2016,GO Asia Pacific corporate,Sales (Corporate),Product Manager,1,1,67762.61,0,0,0,0,0
+2016,GO Asia Pacific corporate,Sales (Corporate),Product Technician,4,5,149805.08,20750,28.5,0,0,2
+2016,GO Asia Pacific corporate,Procurement,Procurement Manager,1,1,57676.18,0,0,0,0,0
+2016,GO Asia Pacific corporate,Procurement,Procurement Coordinator,0,1,13816.71,5000,5,0,1,0
+2016,GO Asia Pacific corporate,Procurement,Procurement Clerk,3,3,81719.42,0,0,0,0,0
+2016,GO Asia Pacific corporate,Information Services and Technology,Vice President of Information Technology,1,1,184947.17,12500,4,0,0,0
+2016,GO Asia Pacific corporate,Information Services and Technology,Information Technology Manager,1,1,86675.14,0,0,0,0,0
+2016,GO Asia Pacific corporate,Information Services and Technology,System Analyst,1,1,35308.06,250,1,0,0,0
+2016,GO Asia Pacific corporate,Information Services and Technology,Software Engineer,2,2,105437.49,250,1,0,0,0
+2016,GO Asia Pacific corporate,Information Services and Technology,Computer Operator,2,2,62844.83,6250,7.5,1,0,1
+2016,GO Asia Pacific corporate,Executive Offices,Executive Vice President,1,1,216526.6,12500,4,0,0,0
+2016,GO Asia Pacific corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2016,GO Asia Pacific operations,Production and Distribution,Regional Manager,0,0,105020.44,0,0,0,0,0
+2016,GO Asia Pacific operations,Production and Distribution,Franchise Distribution Manager,1,1,65224.71,4000,5.5,1,0,1
+2016,GO Asia Pacific operations,Production and Distribution,Warehouse Manager,3,3,156840.16,2000,2,0,0,0
+2016,GO Asia Pacific operations,Production and Distribution,Warehouse Worker,10,10,331725.61,8900,19,0,0,1
+2016,GO Asia Pacific operations,Production and Distribution,Warehouse Assistant Manager,1,1,50721.24,0,0,0,0,0
+2016,GO Asia Pacific operations,Customer Service,Customer Service Manager,1,1,87854.68,0,0,0,0,0
+2016,GO Asia Pacific operations,Customer Service,Customer Service Coordinator,2,2,112095.56,0,0,0,0,0
+2016,GO Asia Pacific operations,Customer Service,Customer Service Representative,7,7,287739.22,38700,45.5,5,0,4
+2016,GO Asia Pacific operations,Sales,Regional Sales Manager,1,1,130073.66,4500,5,0,0,0
+2016,GO Asia Pacific operations,Sales,District Sales Manager,2,2,216102.62,9000,10,0,0,0
+2016,GO Asia Pacific operations,Sales,Branch Sales Manager,6,6,557839.72,36250,41,0,0,0
+2016,GO Asia Pacific operations,Sales,Level 1 Sales Representative,6,6,432874.35,39750,48.5,1,0,1
+2016,GO Asia Pacific operations,Sales,Level 2 Sales Representative,12,12,1271381.69,60000,70,0,0,1
+2016,GO Asia Pacific operations,Sales,Level 3 Sales Representative,12,12,1669354.51,64250,81,0,0,0
+2016,GO Asia Pacific operations,Operations,General Manager of Operations,1,1,183583.59,12500,4,0,0,0
+2016,GO Accessories corporate,Human Resources,Vice President of Human Resources,1,1,204306.6,12500,4,0,0,0
+2016,GO Accessories corporate,Human Resources,Human Resources Administrator,1,1,56801.38,3500,4.5,1,0,1
+2016,GO Accessories corporate,Human Resources,Benefit Specialist,1,1,47877.39,0,0,0,0,0
+2016,GO Accessories corporate,Human Resources,Human Resources Clerk,3,3,102175.15,3500,8,0,0,1
+2016,GO Accessories corporate,Finance,Controller,1,1,204711.57,12500,4,0,0,0
+2016,GO Accessories corporate,Finance,Finance Manager,1,1,117122.06,0,0,0,0,0
+2016,GO Accessories corporate,Finance,Financial Analyst,3,3,214042.37,0,0,0,0,0
+2016,GO Accessories corporate,Finance,Budget Analyst,3,3,146361.32,0,0,0,0,0
+2016,GO Accessories corporate,Finance,Payroll Clerk,3,3,101921.4,4500,6,0,0,0
+2016,GO Accessories corporate,Finance,Accounting Manager,1,1,111563.18,0,0,0,0,0
+2016,GO Accessories corporate,Finance,Accountant 1,5,5,255665.13,8000,9.5,0,0,1
+2016,GO Accessories corporate,Finance,Accountant 2,3,3,205852,8000,9.5,0,0,1
+2016,GO Accessories corporate,Finance,Accounting Clerk,6,7,204838.94,22250,32,0,0,3
+2016,GO Accessories corporate,Marketing,Vice President of Marketing,1,1,201893.17,12500,4,0,0,0
+2016,GO Accessories corporate,Marketing,Marketing Manager,1,1,68551,0,0,0,0,0
+2016,GO Accessories corporate,Marketing,Marketing Specialist,6,6,264776.7,14750,20,0,0,2
+2016,GO Accessories corporate,Sales (Corporate),Vice President of Sales Management,1,1,201146.04,12500,4,0,0,0
+2016,GO Accessories corporate,Sales (Corporate),Product Manager,2,2,153382.19,0,0,0,0,0
+2016,GO Accessories corporate,Sales (Corporate),Product Technician,3,3,148516.51,23050,33,0,0,0
+2016,GO Accessories corporate,Procurement,Procurement Manager,1,1,86680.74,0,0,0,0,0
+2016,GO Accessories corporate,Procurement,Procurement Coordinator,0,0,0,0,0,0,0,0
+2016,GO Accessories corporate,Procurement,Procurement Clerk,4,4,143602.34,0,0,0,0,0
+2016,GO Accessories corporate,Information Services and Technology,Vice President of Information Technology,1,1,204346.24,12500,4,0,0,0
+2016,GO Accessories corporate,Information Services and Technology,Information Technology Manager,1,1,99875.67,0,0,0,0,0
+2016,GO Accessories corporate,Information Services and Technology,System Analyst,1,1,40306.86,250,1,0,0,0
+2016,GO Accessories corporate,Information Services and Technology,Software Engineer,2,2,128495.97,0,0,0,0,0
+2016,GO Accessories corporate,Information Services and Technology,Computer Operator,2,2,60092.97,6250,7.5,0,0,1
+2016,GO Accessories corporate,Executive Offices,Executive Vice President,1,1,238691.28,12500,4,0,0,0
+2016,GO Accessories corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2016,GO Accessories operations,Production and Distribution,Regional Manager,0,0,126120.19,0,0,0,0,0
+2016,GO Accessories operations,Production and Distribution,Franchise Distribution Manager,1,1,59333.13,7750,10.5,0,0,1
+2016,GO Accessories operations,Production and Distribution,Warehouse Manager,1,1,69229.95,0,0,0,0,0
+2016,GO Accessories operations,Production and Distribution,Warehouse Worker,7,7,269686.87,8700,23,0,0,2
+2016,GO Accessories operations,Customer Service,Customer Service Manager,1,1,95447.73,5000,5,1,1,0
+2016,GO Accessories operations,Customer Service,Customer Service Coordinator,2,2,93367.22,0,0,0,0,0
+2016,GO Accessories operations,Customer Service,Customer Service Representative,7,8,341447.78,32700,33.5,0,0,1
+2016,GO Accessories operations,Sales,Regional Sales Manager,1,1,149531.22,4500,5,0,0,0
+2016,GO Accessories operations,Sales,Branch Sales Manager,1,1,88060.45,9500,10,0,0,0
+2016,GO Accessories operations,Sales,Level 1 Sales Representative,10,11,856598.8,61250,73.5,0,0,3
+2016,GO Accessories operations,Sales,Level 2 Sales Representative,13,14,1481412.58,68000,80,0,1,1
+2016,GO Accessories operations,Sales,Level 3 Sales Representative,9,10,1344591.97,44000,52.5,0,2,1
+2016,GO Accessories operations,Operations,General Manager of Operations,1,1,201954.1,12500,4,0,0,0
+2016,GO Northern Europe corporate,Human Resources,Vice President of Human Resources,1,1,203249.99,12500,4,0,0,0
+2016,GO Northern Europe corporate,Human Resources,Human Resources Administrator,1,1,49474.54,0,0,0,0,0
+2016,GO Northern Europe corporate,Human Resources,Benefit Specialist,1,1,37670.45,0,0,0,0,0
+2016,GO Northern Europe corporate,Human Resources,Human Resources Clerk,2,2,64049.95,2250,4,0,0,0
+2016,GO Northern Europe corporate,Finance,Controller,1,1,201265.48,12500,4,0,0,0
+2016,GO Northern Europe corporate,Finance,Finance Manager,1,1,131711.73,0,0,0,0,0
+2016,GO Northern Europe corporate,Finance,Financial Analyst,1,1,72366.69,0,0,0,0,0
+2016,GO Northern Europe corporate,Finance,Budget Analyst,1,1,41719.27,0,0,0,0,0
+2016,GO Northern Europe corporate,Finance,Payroll Clerk,2,2,76870.22,0,0,0,0,0
+2016,GO Northern Europe corporate,Finance,Accounting Manager,1,1,98861.3,8000,8,1,1,0
+2016,GO Northern Europe corporate,Finance,Accountant 1,1,1,36207.47,8000,9.5,0,0,1
+2016,GO Northern Europe corporate,Finance,Accountant 2,4,4,273556.66,7750,8.5,0,0,1
+2016,GO Northern Europe corporate,Finance,Accounting Clerk,3,3,109994.46,2750,4,0,0,0
+2016,GO Northern Europe corporate,Marketing,Vice President of Marketing,1,1,204792.55,12500,4,0,0,0
+2016,GO Northern Europe corporate,Marketing,Marketing Manager,1,1,78576.98,0,0,0,0,0
+2016,GO Northern Europe corporate,Marketing,Marketing Specialist,3,3,132828.84,14750,18.5,1,0,1
+2016,GO Northern Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,202158.42,12500,4,0,0,0
+2016,GO Northern Europe corporate,Sales (Corporate),Product Manager,2,2,139250.69,9750,12.5,1,0,1
+2016,GO Northern Europe corporate,Sales (Corporate),Product Technician,2,2,87851.32,17250,19.5,0,0,0
+2016,GO Northern Europe corporate,Procurement,Procurement Manager,1,1,86170.11,0,0,0,0,0
+2016,GO Northern Europe corporate,Procurement,Procurement Coordinator,1,1,46486.86,0,0,0,0,0
+2016,GO Northern Europe corporate,Procurement,Procurement Clerk,2,2,76023,0,0,0,0,0
+2016,GO Northern Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,201011.56,12500,4,0,0,0
+2016,GO Northern Europe corporate,Information Services and Technology,Information Technology Manager,1,1,102414.37,0,0,0,0,0
+2016,GO Northern Europe corporate,Information Services and Technology,System Analyst,0,0,5352.27,500,1.5,0,0,1
+2016,GO Northern Europe corporate,Information Services and Technology,Software Engineer,2,2,145614.44,0,0,0,0,0
+2016,GO Northern Europe corporate,Information Services and Technology,Computer Operator,0,0,0,0,0,0,0,0
+2016,GO Northern Europe corporate,Executive Offices,Executive Vice President,1,1,237736.43,12500,4,0,0,0
+2016,GO Northern Europe corporate,Production and Distribution,Regional Manager,1,1,0,0,0,1,1,0
+2016,GO Northern Europe operations,Production and Distribution,Regional Manager,0,0,102322.75,4250,6,0,0,0
+2016,GO Northern Europe operations,Production and Distribution,Franchise Distribution Manager,1,1,63565,7750,10.5,0,0,1
+2016,GO Northern Europe operations,Production and Distribution,Warehouse Manager,1,1,52091.42,2000,2,0,1,0
+2016,GO Northern Europe operations,Production and Distribution,Warehouse Worker,4,4,125988.92,3750,11.5,1,0,2
+2016,GO Northern Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,54139.98,4200,7,0,1,0
+2016,GO Northern Europe operations,Customer Service,Customer Service Manager,1,1,116636.95,0,0,0,0,0
+2016,GO Northern Europe operations,Customer Service,Customer Service Coordinator,2,2,90241.33,4750,9,2,0,2
+2016,GO Northern Europe operations,Customer Service,Customer Service Representative,4,4,183629.78,12700,14,0,0,0
+2016,GO Northern Europe operations,Sales,Regional Sales Manager,1,1,149369.26,4500,5,0,0,0
+2016,GO Northern Europe operations,Sales,District Sales Manager,1,1,125237.74,4500,5,0,0,0
+2016,GO Northern Europe operations,Sales,Branch Sales Manager,3,3,290586.63,13500,15,0,0,0
+2016,GO Northern Europe operations,Sales,Level 1 Sales Representative,7,7,503612.36,60000,74,1,0,3
+2016,GO Northern Europe operations,Sales,Level 2 Sales Representative,4,4,445904.9,18000,20,0,0,0
+2016,GO Northern Europe operations,Sales,Level 3 Sales Representative,5,5,689365.95,22500,25,0,0,0
+2016,GO Northern Europe operations,Operations,General Manager of Operations,1,1,200644.84,12500,4,0,0,0
+2016,GO Southern Europe corporate,Human Resources,Vice President of Human Resources,1,1,198602.82,12500,4,0,0,0
+2016,GO Southern Europe corporate,Human Resources,Human Resources Administrator,1,1,51058.02,0,0,0,0,0
+2016,GO Southern Europe corporate,Human Resources,Benefit Specialist,1,1,42921.59,0,0,0,0,0
+2016,GO Southern Europe corporate,Human Resources,Human Resources Clerk,2,2,75156.68,0,0,0,0,0
+2016,GO Southern Europe corporate,Finance,Controller,1,1,197499.55,12500,4,0,0,0
+2016,GO Southern Europe corporate,Finance,Finance Manager,1,1,141766.96,0,0,0,0,0
+2016,GO Southern Europe corporate,Finance,Financial Analyst,1,1,74759.16,0,0,0,0,0
+2016,GO Southern Europe corporate,Finance,Budget Analyst,1,1,53363.42,0,0,0,0,0
+2016,GO Southern Europe corporate,Finance,Payroll Clerk,1,1,32695.34,2250,3,0,0,0
+2016,GO Southern Europe corporate,Finance,Accounting Manager,1,1,119876.09,0,0,0,0,0
+2016,GO Southern Europe corporate,Finance,Accountant 1,2,2,104298.43,0,0,0,0,0
+2016,GO Southern Europe corporate,Finance,Accountant 2,3,3,182936.01,7750,8.5,0,0,1
+2016,GO Southern Europe corporate,Finance,Accounting Clerk,2,2,73360.79,2250,3,0,0,0
+2016,GO Southern Europe corporate,Marketing,Vice President of Marketing,1,1,198880.36,12500,4,0,0,0
+2016,GO Southern Europe corporate,Marketing,Marketing Manager,1,1,75291,0,0,0,0,0
+2016,GO Southern Europe corporate,Marketing,Marketing Specialist,2,2,86693.69,2250,3,0,0,0
+2016,GO Southern Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,197754.48,12500,4,0,0,0
+2016,GO Southern Europe corporate,Sales (Corporate),Product Manager,2,2,184308.02,250,1,0,0,1
+2016,GO Southern Europe corporate,Sales (Corporate),Product Technician,2,2,97471.39,9500,10,0,0,0
+2016,GO Southern Europe corporate,Procurement,Procurement Manager,1,1,83346.53,0,0,0,0,0
+2016,GO Southern Europe corporate,Procurement,Procurement Coordinator,2,2,99899.38,0,0,0,0,0
+2016,GO Southern Europe corporate,Procurement,Procurement Clerk,1,1,32210.36,2750,4,0,0,0
+2016,GO Southern Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,197253.36,12500,4,0,0,0
+2016,GO Southern Europe corporate,Information Services and Technology,Information Technology Manager,1,1,84437.37,0,0,0,0,0
+2016,GO Southern Europe corporate,Information Services and Technology,System Analyst,1,1,38844.72,250,1,0,0,0
+2016,GO Southern Europe corporate,Information Services and Technology,Software Engineer,2,2,138626.28,0,0,0,0,0
+2016,GO Southern Europe corporate,Information Services and Technology,Computer Operator,0,1,16350.09,6000,6.5,0,0,1
+2016,GO Southern Europe corporate,Executive Offices,Executive Vice President,1,1,232519.19,12500,4,0,0,0
+2016,GO Southern Europe corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2016,GO Southern Europe operations,Production and Distribution,Regional Manager,0,0,111567.98,0,0,0,0,0
+2016,GO Southern Europe operations,Production and Distribution,Franchise Distribution Manager,1,1,85958.88,0,0,0,0,0
+2016,GO Southern Europe operations,Production and Distribution,Warehouse Manager,1,1,69977.79,0,0,0,0,0
+2016,GO Southern Europe operations,Production and Distribution,Warehouse Worker,4,4,143988.43,3700,11,1,0,0
+2016,GO Southern Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,57153.78,0,0,0,0,0
+2016,GO Southern Europe operations,Customer Service,Customer Service Manager,1,1,93457.78,0,0,0,0,0
+2016,GO Southern Europe operations,Customer Service,Customer Service Coordinator,1,1,46670.4,0,0,1,1,0
+2016,GO Southern Europe operations,Customer Service,Customer Service Representative,5,5,194463.96,27650,35.5,1,0,3
+2016,GO Southern Europe operations,Sales,Regional Sales Manager,1,1,132468.61,4500,5,0,0,0
+2016,GO Southern Europe operations,Sales,Branch Sales Manager,3,3,268793.26,21500,23,0,0,0
+2016,GO Southern Europe operations,Sales,Level 1 Sales Representative,5,5,416632.41,30250,35,0,0,0
+2016,GO Southern Europe operations,Sales,Level 2 Sales Representative,4,4,458733.59,25500,30,1,0,1
+2016,GO Southern Europe operations,Sales,Level 3 Sales Representative,4,4,554744.67,18000,20,0,0,0
+2016,GO Southern Europe operations,Operations,General Manager of Operations,1,1,200015.62,12500,4,0,0,0
+2017,GO Americas corporate,Human Resources,Vice President of Human Resources,1,1,154325.51,13500,5,0,0,0
+2017,GO Americas corporate,Human Resources,Human Resources Administrator,1,1,37581.71,0,0,0,0,0
+2017,GO Americas corporate,Human Resources,Benefit Specialist,2,2,54050.23,0,0,1,0,0
+2017,GO Americas corporate,Human Resources,Human Resources Clerk,2,2,47418.4,0,0,0,0,0
+2017,GO Americas corporate,Finance,Controller,1,1,134393.93,13500,5,0,0,0
+2017,GO Americas corporate,Finance,Finance Manager,1,1,108356.54,0,0,0,0,0
+2017,GO Americas corporate,Finance,Financial Analyst,1,1,53141.46,0,0,0,0,0
+2017,GO Americas corporate,Finance,Budget Analyst,1,1,41796.62,0,0,0,0,0
+2017,GO Americas corporate,Finance,Payroll Clerk,3,3,81160.46,6000,9,0,0,2
+2017,GO Americas corporate,Finance,Accounting Manager,1,1,86981.21,0,0,0,0,0
+2017,GO Americas corporate,Finance,Accountant 1,1,1,36389.34,0,0,0,0,0
+2017,GO Americas corporate,Finance,Accountant 2,6,6,372542.73,0,0,0,0,0
+2017,GO Americas corporate,Finance,Accounting Clerk,6,6,145948.78,4000,5.5,1,0,1
+2017,GO Americas corporate,Marketing,Vice President of Marketing,1,1,131089.29,13500,5,0,0,0
+2017,GO Americas corporate,Marketing,Marketing Manager,1,1,37680.93,0,0,0,0,0
+2017,GO Americas corporate,Marketing,Marketing Specialist,2,2,72299.51,4500,6,0,0,0
+2017,GO Americas corporate,Sales (Corporate),Vice President of Sales Management,1,1,153835.54,13500,5,0,0,0
+2017,GO Americas corporate,Sales (Corporate),Product Manager,2,2,89266.81,0,0,0,0,0
+2017,GO Americas corporate,Sales (Corporate),Product Technician,2,2,54288.61,10000,12,0,0,0
+2017,GO Americas corporate,Procurement,Procurement Manager,1,1,44136.47,0,0,0,0,0
+2017,GO Americas corporate,Procurement,Procurement Coordinator,1,1,32077.97,0,0,0,0,0
+2017,GO Americas corporate,Procurement,Procurement Clerk,2,2,47724.77,0,0,0,0,0
+2017,GO Americas corporate,Information Services and Technology,Vice President of Information Technology,1,1,152266.26,13500,5,0,0,0
+2017,GO Americas corporate,Information Services and Technology,Information Technology Manager,1,1,76010.91,0,0,0,0,0
+2017,GO Americas corporate,Information Services and Technology,System Analyst,1,1,31500.21,0,0,0,0,0
+2017,GO Americas corporate,Information Services and Technology,Software Engineer,2,2,96039.04,0,0,0,0,0
+2017,GO Americas corporate,Information Services and Technology,Computer Operator,2,2,48059.22,0,0,0,0,0
+2017,GO Americas corporate,Executive Offices,Executive Vice President,1,1,150085.26,13500,5,0,0,0
+2017,GO Americas corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2017,GO Americas corporate,Executive Offices,Chief Executive Officer,1,1,218703.8,13500,5,0,0,0
+2017,GO Americas corporate,Executive Offices,Chief Financial Officer,1,1,186927.73,13500,5,0,0,0
+2017,GO Americas operations,Production and Distribution,Regional Manager,0,0,98943.76,0,0,0,0,0
+2017,GO Americas operations,Production and Distribution,Franchise Distribution Manager,1,1,47248.12,0,0,0,0,0
+2017,GO Americas operations,Production and Distribution,Warehouse Manager,4,4,179538.18,0,0,0,0,0
+2017,GO Americas operations,Production and Distribution,Warehouse Worker,13,13,306192.98,9700,30,2,0,3
+2017,GO Americas operations,Production and Distribution,Warehouse Assistant Manager,4,4,150024.02,0,0,0,0,0
+2017,GO Americas operations,Customer Service,Customer Service Manager,1,1,73819.94,0,0,0,0,0
+2017,GO Americas operations,Customer Service,Customer Service Coordinator,4,4,149037.07,0,0,0,0,0
+2017,GO Americas operations,Customer Service,Customer Service Representative,7,8,218314.47,35000,42,1,0,2
+2017,GO Americas operations,Sales,Regional Sales Manager,1,1,104431.65,4500,5,0,0,0
+2017,GO Americas operations,Sales,District Sales Manager,2,2,159806.27,9000,10,0,0,0
+2017,GO Americas operations,Sales,Branch Sales Manager,8,8,524989.9,31500,35,0,0,0
+2017,GO Americas operations,Sales,Level 1 Sales Representative,10,11,547989.04,45000,50,0,0,0
+2017,GO Americas operations,Sales,Level 2 Sales Representative,6,7,463480.62,27000,30,0,0,0
+2017,GO Americas operations,Sales,Level 3 Sales Representative,14,14,1538905.97,66000,74.5,1,1,1
+2017,GO Americas operations,Operations,General Manager of Operations,1,1,133615.36,13500,5,0,0,0
+2017,GO Central Europe corporate,Human Resources,Vice President of Human Resources,1,1,125833.9,13500,5,0,0,0
+2017,GO Central Europe corporate,Human Resources,Human Resources Administrator,1,1,27851.19,0,0,0,0,0
+2017,GO Central Europe corporate,Human Resources,Benefit Specialist,1,1,23334.55,0,0,0,0,0
+2017,GO Central Europe corporate,Human Resources,Human Resources Clerk,4,4,76874.09,5000,9,1,0,2
+2017,GO Central Europe corporate,Finance,Controller,1,1,125833.9,13500,5,0,0,0
+2017,GO Central Europe corporate,Finance,Finance Manager,1,1,87317.95,0,0,0,0,0
+2017,GO Central Europe corporate,Finance,Financial Analyst,2,2,100806.76,4000,5.5,1,0,1
+2017,GO Central Europe corporate,Finance,Budget Analyst,2,2,64840.48,0,0,0,0,0
+2017,GO Central Europe corporate,Finance,Payroll Clerk,4,4,71525.98,11250,16,0,0,2
+2017,GO Central Europe corporate,Finance,Accounting Manager,1,1,66029.83,0,0,0,0,0
+2017,GO Central Europe corporate,Finance,Accountant 1,3,3,75222.56,8000,9.5,0,0,1
+2017,GO Central Europe corporate,Finance,Accountant 2,6,7,302462.77,15500,17,0,0,2
+2017,GO Central Europe corporate,Finance,Accounting Clerk,5,5,103714.45,1500,2.5,1,0,1
+2017,GO Central Europe corporate,Marketing,Vice President of Marketing,1,1,125833.9,13500,5,0,0,0
+2017,GO Central Europe corporate,Marketing,Marketing Manager,1,1,61557.89,0,0,0,0,0
+2017,GO Central Europe corporate,Marketing,Marketing Specialist,2,2,56078.77,5000,6.5,1,0,1
+2017,GO Central Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,125319.77,13500,5,0,0,0
+2017,GO Central Europe corporate,Sales (Corporate),Product Manager,2,2,101986.67,0,0,0,0,0
+2017,GO Central Europe corporate,Sales (Corporate),Product Technician,2,2,46161.75,17250,23,0,0,0
+2017,GO Central Europe corporate,Procurement,Procurement Manager,1,1,41507.38,0,0,1,1,0
+2017,GO Central Europe corporate,Procurement,Procurement Coordinator,2,2,42306.78,0,0,0,0,0
+2017,GO Central Europe corporate,Procurement,Procurement Clerk,2,2,36640.3,4500,6,0,0,0
+2017,GO Central Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,127611.72,13500,5,0,0,0
+2017,GO Central Europe corporate,Information Services and Technology,Information Technology Manager,1,1,54568.27,0,0,0,0,0
+2017,GO Central Europe corporate,Information Services and Technology,System Analyst,1,1,31435.15,0,0,0,0,0
+2017,GO Central Europe corporate,Information Services and Technology,Software Engineer,3,3,135925.55,0,0,0,0,0
+2017,GO Central Europe corporate,Information Services and Technology,Computer Operator,2,2,47534.02,6000,6.5,1,0,1
+2017,GO Central Europe corporate,Executive Offices,Executive Vice President,1,1,146253.25,13500,5,0,0,0
+2017,GO Central Europe corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2017,GO Central Europe operations,Sales (Corporate),Product Technician,0,0,0,0,0,0,0,0
+2017,GO Central Europe operations,Production and Distribution,Regional Manager,0,0,91953.79,0,0,0,0,0
+2017,GO Central Europe operations,Production and Distribution,Franchise Distribution Manager,1,1,48914,0,0,0,0,0
+2017,GO Central Europe operations,Production and Distribution,Warehouse Manager,1,1,38531.41,0,0,0,0,0
+2017,GO Central Europe operations,Production and Distribution,Warehouse Worker,7,8,167017.3,700,2,1,0,0
+2017,GO Central Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,37971.66,0,0,0,0,0
+2017,GO Central Europe operations,Customer Service,Customer Service Manager,1,1,56578.26,500,1.5,1,0,1
+2017,GO Central Europe operations,Customer Service,Customer Service Coordinator,2,2,69274.83,0,0,0,0,0
+2017,GO Central Europe operations,Customer Service,Customer Service Representative,4,4,101436.73,24750,30,1,0,1
+2017,GO Central Europe operations,Sales,Regional Sales Manager,1,1,111640.66,4500,5,0,0,0
+2017,GO Central Europe operations,Sales,District Sales Manager,2,2,159041.86,9000,10,0,0,0
+2017,GO Central Europe operations,Sales,Branch Sales Manager,8,8,487381.84,44000,48,1,1,0
+2017,GO Central Europe operations,Sales,Level 1 Sales Representative,10,11,485609.2,51750,59.5,1,0,1
+2017,GO Central Europe operations,Sales,Level 2 Sales Representative,12,12,834280.93,60000,69,1,0,2
+2017,GO Central Europe operations,Sales,Level 3 Sales Representative,10,12,880079.36,50500,58,2,0,2
+2017,GO Central Europe operations,Operations,General Manager of Operations,1,1,127411.21,13500,5,0,0,0
+2017,GO Asia Pacific corporate,Human Resources,Vice President of Human Resources,1,1,111984.03,13500,5,0,0,0
+2017,GO Asia Pacific corporate,Human Resources,Human Resources Administrator,1,1,28978.81,0,0,0,0,0
+2017,GO Asia Pacific corporate,Human Resources,Benefit Specialist,1,1,24802.03,0,0,0,0,0
+2017,GO Asia Pacific corporate,Human Resources,Human Resources Clerk,2,2,37824.06,2250,4.5,1,0,1
+2017,GO Asia Pacific corporate,Finance,Controller,1,1,111025.19,13500,5,0,0,0
+2017,GO Asia Pacific corporate,Finance,Finance Manager,1,1,78800.93,0,0,0,0,0
+2017,GO Asia Pacific corporate,Finance,Financial Analyst,1,1,43753.24,0,0,0,0,0
+2017,GO Asia Pacific corporate,Finance,Budget Analyst,2,2,45452.39,0,0,0,0,0
+2017,GO Asia Pacific corporate,Finance,Payroll Clerk,4,4,77149.36,2750,4,0,0,0
+2017,GO Asia Pacific corporate,Finance,Accounting Manager,1,1,67800.95,0,0,0,0,0
+2017,GO Asia Pacific corporate,Finance,Accountant 1,2,2,52993.46,0,0,0,0,0
+2017,GO Asia Pacific corporate,Finance,Accountant 2,3,3,124077.75,7750,8.5,1,0,1
+2017,GO Asia Pacific corporate,Finance,Accounting Clerk,3,3,57734.3,0,0,0,0,0
+2017,GO Asia Pacific corporate,Marketing,Vice President of Marketing,1,1,110396.1,13500,5,0,0,0
+2017,GO Asia Pacific corporate,Marketing,Marketing Manager,1,1,38435.87,0,0,0,0,0
+2017,GO Asia Pacific corporate,Marketing,Marketing Specialist,5,5,119840.03,8250,9,0,0,0
+2017,GO Asia Pacific corporate,Sales (Corporate),Vice President of Sales Management,1,1,110980.09,13500,5,0,0,0
+2017,GO Asia Pacific corporate,Sales (Corporate),Product Manager,1,1,43233.77,0,0,0,0,0
+2017,GO Asia Pacific corporate,Sales (Corporate),Product Technician,5,5,114605.43,22500,30.5,1,0,1
+2017,GO Asia Pacific corporate,Procurement,Procurement Manager,1,1,39881.13,0,0,0,0,0
+2017,GO Asia Pacific corporate,Procurement,Procurement Coordinator,1,1,22839.38,3000,3,0,0,0
+2017,GO Asia Pacific corporate,Procurement,Procurement Clerk,3,3,55375.75,4000,7,1,0,2
+2017,GO Asia Pacific corporate,Information Services and Technology,Vice President of Information Technology,1,1,110396.1,13500,5,0,0,0
+2017,GO Asia Pacific corporate,Information Services and Technology,Information Technology Manager,1,1,57306.27,0,0,0,0,0
+2017,GO Asia Pacific corporate,Information Services and Technology,System Analyst,1,1,24380.9,0,0,0,0,0
+2017,GO Asia Pacific corporate,Information Services and Technology,Software Engineer,2,2,70192.07,0,0,0,0,0
+2017,GO Asia Pacific corporate,Information Services and Technology,Computer Operator,2,2,36006.86,0,0,0,0,0
+2017,GO Asia Pacific corporate,Executive Offices,Executive Vice President,1,1,128461.56,13500,5,0,0,0
+2017,GO Asia Pacific corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2017,GO Asia Pacific operations,Production and Distribution,Regional Manager,0,0,68866.79,0,0,0,0,0
+2017,GO Asia Pacific operations,Production and Distribution,Franchise Distribution Manager,1,1,35775,3750,5,0,0,0
+2017,GO Asia Pacific operations,Production and Distribution,Warehouse Manager,3,3,96183.67,0,0,0,0,0
+2017,GO Asia Pacific operations,Production and Distribution,Warehouse Worker,11,11,228988.4,6500,20,2,0,3
+2017,GO Asia Pacific operations,Production and Distribution,Warehouse Assistant Manager,1,1,30952.25,0,0,0,0,0
+2017,GO Asia Pacific operations,Customer Service,Customer Service Manager,1,1,57879.95,0,0,0,0,0
+2017,GO Asia Pacific operations,Customer Service,Customer Service Coordinator,2,2,71225.59,0,0,0,0,0
+2017,GO Asia Pacific operations,Customer Service,Customer Service Representative,7,7,182587.56,38250,43,0,0,0
+2017,GO Asia Pacific operations,Sales,Regional Sales Manager,1,1,85041.94,4500,5,0,0,0
+2017,GO Asia Pacific operations,Sales,District Sales Manager,2,2,141645.94,9000,10,0,0,0
+2017,GO Asia Pacific operations,Sales,Branch Sales Manager,6,6,349852.26,35000,38,1,1,0
+2017,GO Asia Pacific operations,Sales,Level 1 Sales Representative,7,8,385738.36,46000,55,2,0,3
+2017,GO Asia Pacific operations,Sales,Level 2 Sales Representative,11,12,844182.09,45750,52,2,0,0
+2017,GO Asia Pacific operations,Sales,Level 3 Sales Representative,11,12,989497.02,49500,55,0,0,0
+2017,GO Asia Pacific operations,Operations,General Manager of Operations,1,1,110396.1,13500,5,0,0,0
+2017,GO Accessories corporate,Human Resources,Vice President of Human Resources,1,1,122033.73,13500,5,0,0,0
+2017,GO Accessories corporate,Human Resources,Human Resources Administrator,1,1,29735,6250,8,0,0,0
+2017,GO Accessories corporate,Human Resources,Benefit Specialist,1,1,29178.52,0,0,0,0,0
+2017,GO Accessories corporate,Human Resources,Human Resources Clerk,4,4,84767.51,3500,5.5,1,0,1
+2017,GO Accessories corporate,Finance,Controller,1,1,122268.83,13500,5,0,0,0
+2017,GO Accessories corporate,Finance,Finance Manager,1,1,74949.9,0,0,0,0,0
+2017,GO Accessories corporate,Finance,Financial Analyst,3,3,136196.09,0,0,0,0,0
+2017,GO Accessories corporate,Finance,Budget Analyst,3,3,90020.96,0,0,0,0,0
+2017,GO Accessories corporate,Finance,Payroll Clerk,3,3,63819.65,0,0,0,0,0
+2017,GO Accessories corporate,Finance,Accounting Manager,1,1,69392.97,0,0,0,0,0
+2017,GO Accessories corporate,Finance,Accountant 1,5,5,162445.76,4500,5.5,1,0,1
+2017,GO Accessories corporate,Finance,Accountant 2,4,5,194663.82,12250,14,0,0,2
+2017,GO Accessories corporate,Finance,Accounting Clerk,7,7,143942.37,4750,6,0,0,0
+2017,GO Accessories corporate,Marketing,Vice President of Marketing,1,1,120578.44,13500,5,0,0,0
+2017,GO Accessories corporate,Marketing,Marketing Manager,1,1,44336.24,0,0,0,0,0
+2017,GO Accessories corporate,Marketing,Marketing Specialist,7,7,189790.5,14000,17.5,1,0,1
+2017,GO Accessories corporate,Sales (Corporate),Vice President of Sales Management,1,1,120578.44,13500,5,0,0,0
+2017,GO Accessories corporate,Sales (Corporate),Product Manager,2,2,98972.75,0,0,0,0,0
+2017,GO Accessories corporate,Sales (Corporate),Product Technician,3,3,94109.29,21250,27,0,0,0
+2017,GO Accessories corporate,Procurement,Procurement Manager,1,1,61386.04,0,0,0,0,0
+2017,GO Accessories corporate,Procurement,Procurement Coordinator,1,2,42338.51,18500,22,0,0,2
+2017,GO Accessories corporate,Procurement,Procurement Clerk,4,4,90544.57,500,1.5,1,0,1
+2017,GO Accessories corporate,Information Services and Technology,Vice President of Information Technology,1,1,122119.54,13500,5,0,0,0
+2017,GO Accessories corporate,Information Services and Technology,Information Technology Manager,1,1,61724.68,0,0,1,1,0
+2017,GO Accessories corporate,Information Services and Technology,System Analyst,1,1,26046.59,0,0,0,0,0
+2017,GO Accessories corporate,Information Services and Technology,Software Engineer,3,3,115532.9,8000,8.5,0,0,1
+2017,GO Accessories corporate,Information Services and Technology,Computer Operator,3,3,60114.02,6000,6.5,0,0,1
+2017,GO Accessories corporate,Executive Offices,Executive Vice President,1,1,141208.13,13500,5,0,0,0
+2017,GO Accessories corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2017,GO Accessories operations,Production and Distribution,Regional Manager,0,0,82759.84,0,0,0,0,0
+2017,GO Accessories operations,Production and Distribution,Franchise Distribution Manager,1,1,39172.94,4000,5.5,1,0,1
+2017,GO Accessories operations,Production and Distribution,Warehouse Manager,1,1,43635.36,0,0,0,0,0
+2017,GO Accessories operations,Production and Distribution,Warehouse Worker,8,8,186969.86,5000,15,1,0,1
+2017,GO Accessories operations,Customer Service,Customer Service Manager,1,1,47217.29,3000,3,0,0,0
+2017,GO Accessories operations,Customer Service,Customer Service Coordinator,1,2,44126.21,2000,3.5,0,0,1
+2017,GO Accessories operations,Customer Service,Customer Service Representative,9,9,257997.97,47750,63.5,1,0,3
+2017,GO Accessories operations,Sales,Regional Sales Manager,1,1,103272.75,4500,5,0,0,0
+2017,GO Accessories operations,Sales,Branch Sales Manager,1,1,56247.63,4500,5,0,0,0
+2017,GO Accessories operations,Sales,Level 1 Sales Representative,11,11,562308.74,60250,73,1,0,2
+2017,GO Accessories operations,Sales,Level 2 Sales Representative,14,14,984192.17,66750,76.5,0,1,1
+2017,GO Accessories operations,Sales,Level 3 Sales Representative,11,11,1097041.25,55250,63,0,0,0
+2017,GO Accessories operations,Operations,General Manager of Operations,1,1,120578.44,13500,5,0,0,0
+2017,GO Northern Europe corporate,Human Resources,Vice President of Human Resources,1,1,120578.44,13500,5,0,0,0
+2017,GO Northern Europe corporate,Human Resources,Human Resources Administrator,1,1,30334.09,0,0,0,0,0
+2017,GO Northern Europe corporate,Human Resources,Benefit Specialist,1,1,24539.69,0,0,0,0,0
+2017,GO Northern Europe corporate,Human Resources,Human Resources Clerk,3,3,55013.87,5000,9,1,0,2
+2017,GO Northern Europe corporate,Finance,Controller,1,1,120578.44,13500,5,0,0,0
+2017,GO Northern Europe corporate,Finance,Finance Manager,1,1,83008.88,0,0,0,0,0
+2017,GO Northern Europe corporate,Finance,Financial Analyst,1,1,46665.35,0,0,0,0,0
+2017,GO Northern Europe corporate,Finance,Budget Analyst,1,1,27196.16,0,0,0,0,0
+2017,GO Northern Europe corporate,Finance,Payroll Clerk,2,2,47974.74,4500,6.5,1,0,1
+2017,GO Northern Europe corporate,Finance,Accounting Manager,1,1,57685.83,0,0,0,0,0
+2017,GO Northern Europe corporate,Finance,Accountant 1,2,2,52555.79,15000,16,1,0,2
+2017,GO Northern Europe corporate,Finance,Accountant 2,4,4,173919.15,250,1,0,0,0
+2017,GO Northern Europe corporate,Finance,Accounting Clerk,3,3,69222.39,0,0,0,0,0
+2017,GO Northern Europe corporate,Marketing,Vice President of Marketing,1,1,122315.86,13500,5,0,0,0
+2017,GO Northern Europe corporate,Marketing,Marketing Manager,1,1,52131.7,0,0,0,0,0
+2017,GO Northern Europe corporate,Marketing,Marketing Specialist,3,3,79650.62,6750,9,0,0,0
+2017,GO Northern Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,120578.44,13500,5,0,0,0
+2017,GO Northern Europe corporate,Sales (Corporate),Product Manager,2,2,83597.7,0,0,0,0,0
+2017,GO Northern Europe corporate,Sales (Corporate),Product Technician,2,2,59563.43,11000,14,0,0,0
+2017,GO Northern Europe corporate,Procurement,Procurement Manager,1,1,61499.12,0,0,0,0,0
+2017,GO Northern Europe corporate,Procurement,Procurement Coordinator,2,2,61268.26,9500,11.5,0,0,1
+2017,GO Northern Europe corporate,Procurement,Procurement Clerk,2,2,44752.55,3500,5.5,1,0,1
+2017,GO Northern Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,120578.44,13500,5,0,0,0
+2017,GO Northern Europe corporate,Information Services and Technology,Information Technology Manager,1,1,66580.37,0,0,0,0,0
+2017,GO Northern Europe corporate,Information Services and Technology,System Analyst,1,1,29100,7750,8,0,0,0
+2017,GO Northern Europe corporate,Information Services and Technology,Software Engineer,2,2,92693.65,7500,7.5,1,0,1
+2017,GO Northern Europe corporate,Information Services and Technology,Computer Operator,1,1,15228.44,5500,5.5,0,0,1
+2017,GO Northern Europe corporate,Executive Offices,Executive Vice President,1,1,140505.13,13500,5,0,0,0
+2017,GO Northern Europe corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2017,GO Northern Europe operations,Production and Distribution,Regional Manager,0,0,73666.89,0,0,0,0,0
+2017,GO Northern Europe operations,Production and Distribution,Franchise Distribution Manager,1,1,43360.98,7500,9.5,1,0,1
+2017,GO Northern Europe operations,Production and Distribution,Warehouse Manager,1,1,35340,2000,2,0,0,0
+2017,GO Northern Europe operations,Production and Distribution,Warehouse Worker,4,4,82315.66,1100,3.5,0,0,0
+2017,GO Northern Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,35212.54,0,0,0,0,0
+2017,GO Northern Europe operations,Customer Service,Customer Service Manager,1,1,70988.67,0,0,0,0,0
+2017,GO Northern Europe operations,Customer Service,Customer Service Coordinator,2,2,50297.48,750,2,0,0,0
+2017,GO Northern Europe operations,Customer Service,Customer Service Representative,4,4,117093.95,24000,27.5,0,0,0
+2017,GO Northern Europe operations,Sales,Regional Sales Manager,1,1,95654.64,4500,5,0,0,0
+2017,GO Northern Europe operations,Sales,District Sales Manager,1,1,79698.39,4750,6,1,0,1
+2017,GO Northern Europe operations,Sales,Branch Sales Manager,3,3,196113.65,13500,15,0,0,0
+2017,GO Northern Europe operations,Sales,Level 1 Sales Representative,6,7,257672.02,30750,35,2,0,0
+2017,GO Northern Europe operations,Sales,Level 2 Sales Representative,5,5,358378.77,29000,33.5,0,0,1
+2017,GO Northern Europe operations,Sales,Level 3 Sales Representative,5,5,507654.16,22500,25,0,0,0
+2017,GO Northern Europe operations,Operations,General Manager of Operations,1,1,120578.44,13500,5,0,0,0
+2017,GO Southern Europe corporate,Human Resources,Vice President of Human Resources,1,1,123401.83,13500,5,0,0,0
+2017,GO Southern Europe corporate,Human Resources,Human Resources Administrator,1,1,32547.02,0,0,0,0,0
+2017,GO Southern Europe corporate,Human Resources,Benefit Specialist,1,1,27578.7,0,0,0,0,0
+2017,GO Southern Europe corporate,Human Resources,Human Resources Clerk,2,2,48662.68,0,0,0,0,0
+2017,GO Southern Europe corporate,Finance,Controller,1,1,123868.11,13500,5,0,0,0
+2017,GO Southern Europe corporate,Finance,Finance Manager,1,1,88576.8,0,0,0,0,0
+2017,GO Southern Europe corporate,Finance,Financial Analyst,1,1,46781,0,0,0,0,0
+2017,GO Southern Europe corporate,Finance,Budget Analyst,1,1,33500.17,0,0,0,0,0
+2017,GO Southern Europe corporate,Finance,Payroll Clerk,1,1,19902.14,0,0,0,0,0
+2017,GO Southern Europe corporate,Finance,Accounting Manager,1,1,83280.93,0,0,0,0,0
+2017,GO Southern Europe corporate,Finance,Accountant 1,2,2,66526.15,500,1.5,1,0,1
+2017,GO Southern Europe corporate,Finance,Accountant 2,3,3,130642.21,250,1,0,0,0
+2017,GO Southern Europe corporate,Finance,Accounting Clerk,3,3,62405.21,4500,6.5,0,0,1
+2017,GO Southern Europe corporate,Marketing,Vice President of Marketing,1,1,123206.1,13500,5,0,0,0
+2017,GO Southern Europe corporate,Marketing,Marketing Manager,1,1,48462.76,0,0,0,0,0
+2017,GO Southern Europe corporate,Marketing,Marketing Specialist,2,2,59908.47,4000,4,0,0,0
+2017,GO Southern Europe corporate,Sales (Corporate),Vice President of Sales Management,1,1,123783.8,13500,5,0,0,0
+2017,GO Southern Europe corporate,Sales (Corporate),Product Manager,3,3,145412.99,15250,18,1,0,1
+2017,GO Southern Europe corporate,Sales (Corporate),Product Technician,2,2,56155.25,1500,3,0,0,0
+2017,GO Southern Europe corporate,Procurement,Procurement Manager,1,1,54961.01,0,0,0,0,0
+2017,GO Southern Europe corporate,Procurement,Procurement Coordinator,2,2,60588.84,0,0,0,0,0
+2017,GO Southern Europe corporate,Procurement,Procurement Clerk,1,1,18719.55,0,0,0,0,0
+2017,GO Southern Europe corporate,Information Services and Technology,Vice President of Information Technology,1,1,123206.1,13500,5,0,0,0
+2017,GO Southern Europe corporate,Information Services and Technology,Information Technology Manager,1,1,56117.5,0,0,0,0,0
+2017,GO Southern Europe corporate,Information Services and Technology,System Analyst,1,1,26807.75,0,0,0,0,0
+2017,GO Southern Europe corporate,Information Services and Technology,Software Engineer,2,2,93378.25,8000,8.5,1,0,1
+2017,GO Southern Europe corporate,Information Services and Technology,Computer Operator,1,1,17158.6,250,1,0,0,0
+2017,GO Southern Europe corporate,Executive Offices,Executive Vice President,1,1,143306.65,13500,5,0,0,0
+2017,GO Southern Europe corporate,Production and Distribution,Regional Manager,1,1,0,0,0,0,0,0
+2017,GO Southern Europe operations,Production and Distribution,Regional Manager,0,0,71003.1,0,0,0,0,0
+2017,GO Southern Europe operations,Production and Distribution,Franchise Distribution Manager,1,1,51657.98,0,0,0,0,0
+2017,GO Southern Europe operations,Production and Distribution,Warehouse Manager,1,1,43573.84,0,0,0,0,0
+2017,GO Southern Europe operations,Production and Distribution,Warehouse Worker,3,3,70352.55,950,3,0,0,0
+2017,GO Southern Europe operations,Production and Distribution,Warehouse Assistant Manager,1,1,38215.51,0,0,0,0,0
+2017,GO Southern Europe operations,Customer Service,Customer Service Manager,1,1,52118.28,5000,5,1,1,0
+2017,GO Southern Europe operations,Customer Service,Customer Service Coordinator,1,1,23485,0,0,0,1,0
+2017,GO Southern Europe operations,Customer Service,Customer Service Representative,4,5,116968.93,27000,31.5,0,0,0
+2017,GO Southern Europe operations,Sales,Regional Sales Manager,1,1,81329.52,4500,5,0,0,0
+2017,GO Southern Europe operations,Sales,Branch Sales Manager,3,3,177435.12,13500,15,0,0,0
+2017,GO Southern Europe operations,Sales,Level 1 Sales Representative,5,5,280798.03,25500,29.5,1,0,1
+2017,GO Southern Europe operations,Sales,Level 2 Sales Representative,4,4,313821.3,21250,25.5,1,0,1
+2017,GO Southern Europe operations,Sales,Level 3 Sales Representative,4,4,383272.67,18000,20,0,0,0
+2017,GO Southern Europe operations,Operations,General Manager of Operations,1,1,125216.54,13500,5,0,0,0
